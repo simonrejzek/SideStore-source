@@ -1,1 +1,28 @@
-
+{
+  "name": "Null's Brawl",
+  "identifier": "nt.nb.ios.JD62PTSCXM",
+  "apps": [
+    {
+      "name": "Null's Brawl",
+      "bundleIdentifier": "nt.nb.ios.JD62PTSCXM",
+      "developerName": "syto203",
+      "subtitle": "Unfold — Stories Editor & Collage Maker",
+      "version": "4.12.3",
+      "versionDate": "2019-06-28T14:30:00-07:00",
+      "versionDescription": "Bug fixes. Updated Unfold to 4.12.3",
+      "downloadURL": "https://dnull.xyz/latest_bs_i",
+      "localizedDescription": "\n\nUnfold is a toolkit for storytellers. Create beautiful and engaging stories from minimal and elegant templates.\n\nEnables the following templates in Unfold:\n\n• DW1\n• DW2\n• NINE\n• Art\n• RP1\n• RP2\n•FF1\n•FF2\n•JN1\n•CS1\n•CS2\n•CS3\n•Love 2\n\nDoesn't Enable Fonts or Love,Pride and RED templates.",
+      "iconURL": "https://minimaron.com/wp-content/uploads/2019/05/18699426_1914339145473482_2825554124753608796_o.jpg",
+      "tintColor": "95b5d6",
+      "size": 89312385,
+      "screenshotURLs": [
+        "https://i.imgur.com/W2j590N.png",
+	"https://cdn1s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen1.jpg",
+	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen2.jpg",
+	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen3.jpg",
+	"https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen4.jpg",
+	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen5.jpg",
+	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen6.jpg",
+	"https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen7.jpg"
+      ]
+    }
