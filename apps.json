@@ -1,73 +1,55 @@
 {
-    "name": "Null's Brawl Source",
-    "subtitle": "All Null's Brawl apps in one place.",
-    "description": "Welcome to Null's Brawl source! Here you'll find all of our apps.",
-    "iconURL": "https://minimaron.com/wp-content/uploads/2019/05/18699426_1914339145473482_2825554124753608796_o.jpg",
-    "headerURL": "https://example.com/header_image.png",
-    "website": "https://example.com",
-    "tintColor": "#95b5d6",
-    "featuredApps": [
-        "nt.nb.ios.JD62PTSCXM"
-    ],
-    "apps": [
-        {
-            "name": "Null's Brawl",
-            "bundleIdentifier": "nt.nb.ios.JD62PTSCXM",
-            "developerName": "syto203",
-            "subtitle": "Unfold — Stories Editor & Collage Maker",
-            "localizedDescription": "Unfold is a toolkit for storytellers. Create beautiful and engaging stories from minimal and elegant templates.\n\nEnables the following templates in Unfold:\n\n• DW1\n• DW2\n• NINE\n• Art\n• RP1\n• RP2\n• FF1\n• FF2\n• JN1\n• CS1\n• CS2\n• CS3\n• Love 2\n\nDoesn't Enable Fonts or Love, Pride, and RED templates.",
-            "iconURL": "https://minimaron.com/wp-content/uploads/2019/05/18699426_1914339145473482_2825554124753608796_o.jpg",
-            "tintColor": "#95b5d6",
-            "screenshots": [
-                "https://i.imgur.com/W2j590N.png",
-                "https://cdn1s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen1.jpg",
-                "https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen2.jpg",
-                "https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen3.jpg",
-                "https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen4.jpg",
-                "https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen5.jpg",
-                "https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen6.jpg",
-                "https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen7.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "4.12.3",
-                    "date": "2019-06-28T14:30:00-07:00",
-                    "size": 89312385,
-                    "downloadURL": "https://dnull.xyz/latest_bs_i",
-                    "localizedDescription": "Bug fixes. Updated Unfold to 4.12.3",
-                    "minOSVersion": "12.0"
-                }
-            ],
-            "appPermissions": {
-                "entitlements": [
-                    "com.apple.security.application-groups"
-                ],
-                "privacy": {
-                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library."
-                }
+  "name": "Null's Brawl Source",
+  "subtitle": "All Null's Brawl apps in one place.",
+  "description": "Welcome to Null's Brawl source! Here you'll find all of our apps.",
+  "iconURL": "https://minimaron.com/wp-content/uploads/2019/05/18699426_1914339145473482_2825554124753608796_o.jpg",
+  "headerURL": "https://example.com/header_image.png",
+  "website": "https://example.com",
+  "patreonURL": "https://patreon.com/nullsbrawl",
+  "tintColor": "#95b5d6",
+  "featuredApps": [
+    "nt.nb.ios.JD62PTSCXM"
+  ],
+  "apps": [
+    {
+        "name": "Null's Brawl",
+        "bundleIdentifier": "nt.nb.ios.JD62PTSCXM",
+        "developerName": "syto203",
+        "subtitle": "Unfold — Stories Editor & Collage Maker",
+        "localizedDescription": "Unfold is a toolkit for storytellers. Create beautiful and engaging stories from minimal and elegant templates.\n\nEnables the following templates in Unfold:\n\n• DW1\n• DW2\n• NINE\n• Art\n• RP1\n• RP2\n• FF1\n• FF2\n• JN1\n• CS1\n• CS2\n• CS3\n• Love 2\n\nDoesn't Enable Fonts or Love, Pride, and RED templates.",
+        "iconURL": "https://minimaron.com/wp-content/uploads/2019/05/18699426_1914339145473482_2825554124753608796_o.jpg",
+        "tintColor": "#95b5d6",
+        "category": "utilities",
+        "screenshots": [
+            "https://i.imgur.com/W2j590N.png",
+            "https://cdn1s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen1.jpg",
+            "https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen2.jpg",
+            "https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen3.jpg",
+            "https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen4.jpg",
+            "https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen5.jpg",
+            "https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen6.jpg",
+            "https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen7.jpg"
+        ],
+        "versions": [
+            {
+                "version": "4.12.3",
+                "date": "2019-06-28T14:30:00-07:00",
+                "size": 89312385,
+                "downloadURL": "https://dnull.xyz/latest_bs_i",
+                "localizedDescription": "Bug fixes. Updated Unfold to 4.12.3",
+                "minOSVersion": "12.0"
             }
-        }
-    ],
-    "news": [
-        {
-            "title": "New Feature Announcement",
-            "identifier": "new_feature",
-            "caption": "Introducing a new feature in Null's Brawl!",
-            "date": "2023-06-15",
-            "tintColor": "#95b5d6",
-            "imageURL": "https://example.com/new_feature_image.png",
-            "notify": true,
-            "url": "https://example.com/new_feature_details"
+        ],
+        "appPermissions": {
+            "entitlements": [
+                "com.apple.security.application-groups"
+            ],
+            "privacy": {
+                "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library."
+            }
         },
-        {
-            "title": "App Update Available",
-            "identifier": "app_update",
-            "caption": "An update is available for Null's Brawl.",
-            "date": "2023-06-10T10:00:00-07:00",
-            "tintColor": "#95b5d6",
-            "imageURL": "https://example.com/app_update_image.png",
-            "notify": false,
-            "appID": "nt.nb.ios.JD62PTSCXM"
-        }
-    ]
+        "patreon": {}
+    }
+  ],
+  "news": []
 }
