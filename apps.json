@@ -1,178 +1,20 @@
 {
-    "name": "Foxster's AltSource",
-    "identifier": "me.foxster.AltSource",
-    "subtitle": "Foxster's AltStore source.",
-    "description": "AltStore source with tweaked apps and possibly more.",
-    "website": "https://github.com/therealFoxster/altsource",
-    "iconURL": "https://avatars.githubusercontent.com/u/77606385",
-    "tintColor": "D85240",
-    "apps": [
-        {
-            "id": "nullsbrawl",
-            "name": "Nulls Brawl",
-            "bundleIdentifier": "com.supercell.brawlstars",
-            "developerName": "Null's Team",
-            "subtitle": "Null's Brawl with unlimited resources and private server features.",
-            "version": "50.221",
-            "size": 350000000,
-            "versionDate": "2024-06-01T12:00:00-07:00",
-            "versionDescription": "• New Brawlers and Skins\n• Enhanced game performance\n• Bug fixes and optimizations\n• Full changelog: https://nulls.gg/brawlstars/changelog",
-            "downloadURL": "https://www.dropbox.com/scl/fi/some-file/nullsbrawl_50.221.ipa?dl=1",
-            "versions": [
-                {
-                    "version": "50.221",
-                    "date": "2024-06-01T12:00:00-07:00",
-                    "localizedDescription": "• New Brawlers and Skins\n• Enhanced game performance\n• Bug fixes and optimizations\n• Full changelog: https://nulls.gg/brawlstars/changelog",
-                    "downloadURL": "https://www.dropbox.com/scl/fi/some-file/nullsbrawl_50.221.ipa?dl=1",
-                    "size": 350000000
-                },
-                {
-                    "version": "49.194",
-                    "date": "2024-05-01T12:00:00-07:00",
-                    "localizedDescription": "• Bug fixes and performance improvements\n• New Brawlers added\n• Full changelog: https://nulls.gg/brawlstars/changelog",
-                    "downloadURL": "https://www.dropbox.com/scl/fi/another-file/nullsbrawl_49.194.ipa?dl=1",
-                    "size": 345000000
-                }
-            ],
-            "localizedDescription": "Null's Brawl is a modified version of Brawl Stars offering unlimited resources and access to all features on a private server.\n\nFeatures:\n• Unlimited Gems and Coins\n• Access to all Brawlers and Skins\n• Regular updates with new content\n• Stable and fast servers\n• And much more\n\nMore information: \nhttps://nulls.gg/brawlstars\n\nRequires iOS 14.0 or later.\n\nContributors: Null's Team.",
-            "iconURL": "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/icons/nullsbrawl.png",
-            "tintColor": "cb1633",
-            "screenshots": [
-                {
-                    "imageURL": "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/NullsBrawl/nullsbrawl1.jpeg?raw=true"
-                },
-                {
-                    "imageURL": "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/NullsBrawl/nullsbrawl2.jpeg?raw=true"
-                },
-                {
-                    "imageURL": "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/NullsBrawl/nullsbrawl3.jpeg?raw=true"
-                },
-                {
-                    "imageURL": "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/NullsBrawl/nullsbrawl4.jpeg?raw=true"
-                },
-                {
-                    "imageURL": "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/NullsBrawl/nullsbrawl5.jpeg?raw=true"
-                },
-                {
-                    "imageURL": "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/NullsBrawl/nullsbrawl6.jpeg?raw=true"
-                }
-            ],
-            "screenshotURLs": [
-                "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/NullsBrawl/nullsbrawl1.jpeg?raw=true",
-                "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/NullsBrawl/nullsbrawl2.jpeg?raw=true",
-                "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/NullsBrawl/nullsbrawl3.jpeg?raw=true",
-                "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/NullsBrawl/nullsbrawl4.jpeg?raw=true",
-                "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/NullsBrawl/nullsbrawl5.jpeg?raw=true",
-                "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/NullsBrawl/nullsbrawl6.jpeg?raw=true"
-            ],
-            "permissions": [
-                {
-                    "type": "photos",
-                    "usageDescription": "Allows Null's Brawl to upload media from your photo library for use as avatars, etc."
-                },
-                {
-                    "type": "background-audio",
-                    "usageDescription": "Allows Null's Brawl to play audio in the background."
-                }
-            ],
-            "appPermissions": {
-                "entitlements": [
-                    {
-                        "name": "get-task-allow"
-                    },
-                    {
-                        "name": "aps-environment"
-                    },
-                    {
-                        "name": "com.apple.developer.associated-domains"
-                    },
-                    {
-                        "name": "com.apple.developer.coremedia.allow-alternate-video-decoder-selection"
-                    },
-                    {
-                        "name": "com.apple.developer.device-information.user-assigned-device-name"
-                    },
-                    {
-                        "name": "com.apple.developer.networking.multicast"
-                    },
-                    {
-                        "name": "com.apple.developer.networking.wifi-info"
-                    },
-                    {
-                        "name": "com.apple.developer.usernotifications.time-sensitive"
-                    },
-                    {
-                        "name": "com.apple.security.application-groups"
-                    },
-                    {
-                        "name": "keychain-access-groups"
-                    }
-                ],
-                "privacy": [
-                    {
-                        "name": "AppleMusic",
-                        "usageDescription": "This lets you add your own audio files to your gameplay."
-                    },
-                    {
-                        "name": "BluetoothPeripheral",
-                        "usageDescription": "Null's Brawl needs bluetooth access to scan for nearby devices."
-                    },
-                    {
-                        "name": "Camera",
-                        "usageDescription": "This lets you capture moments within the game."
-                    },
-                    {
-                        "name": "Contacts",
-                        "usageDescription": "Your contacts will be used to help you find friends to play with."
-                    },
-                    {
-                        "name": "LocalNetwork",
-                        "usageDescription": "Access to your network allows Null's Brawl to connect to devices such as your TV."
-                    },
-                    {
-                        "name": "LocationWhenInUse",
-                        "usageDescription": "Makes it easier for you to attach location information to your profile and activities."
-                    },
-                    {
-                        "name": "Microphone",
-                        "usageDescription": "This lets you include voice chat during gameplay."
-                    },
-                    {
-                        "name": "PhotoLibrary",
-                        "usageDescription": "This lets you upload media you've already created."
-                    }
-                ]
-            }
-        }
-    ],
-    "featuredApps": [
-        "com.supercell.brawlstars"
-    ],
-    "news": [
-        {
-            "title": "Nulls Brawl Update v50.221",
-            "identifier": "foxster-news-5",
-            "caption": "The latest update for Null's Brawl includes new brawlers, skins, and bug fixes.",
-            "tintColor": "A405FA",
-            "date": "2024-06-01",
-            "notify": false
-        },
-        {
-            "title": "Nulls Brawl Version History",
-            "identifier": "foxster-news-4",
-            "caption": "Tap to learn more about Null's Brawl and its version history.",
-            "tintColor": "cb1633",
-            "url": "https://nulls.gg/brawlstars/version-history",
-            "date": "2024-05-01",
-            "notify": false
-        },
-        {
-            "title": "Bug Fixes in Nulls Brawl v49.194",
-            "identifier": "foxster-news-3",
-            "caption": "The v49.194 update fixes several bugs and improves game performance.",
-            "tintColor": "D85240",
-            "date": "2024-05-01",
-            "notify": false
-        }
-    ]
+  "name": "Null's Brawl",
+  "identifier": "com.nullsbrawl",
+  "sourceURL": "https://www.dropbox.com/scl/fi/some-file/nullsbrawl_50.221.ipa?dl=1",
+  "developerName": "Null's Team",
+  "iconURL": "https://example.com/nullsbrawl-icon.png",
+  "apps": [
+    {
+      "name": "Null's Brawl",
+      "bundleIdentifier": "com.nullsbrawl",
+      "version": "50.221",
+      "versionDate": "2025-02-10",
+      "downloadURL": "https://www.dropbox.com/scl/fi/some-file/nullsbrawl_50.221.ipa?dl=1",
+      "localizedDescription": "Private server version of Brawl Stars with unlimited resources and custom mods.",
+      "iconURL": "https://example.com/nullsbrawl-icon.png",
+      "tintColor": "#FFCC00",
+      "size": "250MB"
+    }
+  ]
 }
