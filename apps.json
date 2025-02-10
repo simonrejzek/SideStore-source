@@ -3,8 +3,8 @@
   "subtitle": "The best modded YouTube experience",
   "identifier": "com.uYouEnhanced.source",
   "description": "uYou Enhanced is a feature-packed mod for the YouTube app, offering ad-blocking, background playback, and more!",
-  "iconURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
-  "headerURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
+  "iconURL": "https://raw.githubusercontent.com/qnblackcat/uYouPlus/main/Assets/uYouEnhancedIcon.png",
+  "headerURL": "https://raw.githubusercontent.com/qnblackcat/uYouPlus/main/Assets/uYouEnhancedHeader.png",
   "website": "https://github.com/qnblackcat/uYouPlus",
   "tintColor": "#FF0000",
   "featuredApps": ["com.uYouEnhanced"],
@@ -14,33 +14,33 @@
       "bundleIdentifier": "com.uYouEnhanced",
       "developerName": "uYou Enhanced Team",
       "subtitle": "The ultimate YouTube mod with enhanced features.",
-      "version": "19.12.3",
-      "versionDate": "2025-02-10T12:00:00+00:00",
+      "version": "19.11.2",
+      "versionDate": "2024-10-03T12:00:00+00:00",
       "versionDescription": "- Updated to latest YouTube base.\n- Improved background playback.\n- Bug fixes and performance enhancements.",
-      "downloadURL": "https://ia600202.us.archive.org/6/items/YouTubeRebornPlus_19.10.5-4.2.6/yt-uYE-19212-304.ipa",
+      "downloadURL": "https://archive.org/download/uYouEnhanced_19.11.2/yt-uYE-19112.ipa",
       "localizedDescription": "uYou Enhanced is a modified version of YouTube that includes:\n- Ad-blocking\n- Background playback\n- PiP mode\n- Download videos\n- Improved speed controls\n- No login required\n\nEnjoy YouTube with a better experience!",
-      "iconURL": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY=s512-rw",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/uYouPlus/main/Assets/uYouEnhancedIcon.png",
       "tintColor": "#FF0000",
       "screenshotURLs": [
-        "https://example.com/uyou-screenshot1.png",
-        "https://example.com/uyou-screenshot2.png",
-        "https://example.com/uyou-screenshot3.png"
+        "https://raw.githubusercontent.com/qnblackcat/uYouPlus/main/Assets/screenshot1.png",
+        "https://raw.githubusercontent.com/qnblackcat/uYouPlus/main/Assets/screenshot2.png",
+        "https://raw.githubusercontent.com/qnblackcat/uYouPlus/main/Assets/screenshot3.png"
       ],
       "versions": [
         {
-          "version": "19.12.3",
-          "date": "2025-02-10T12:00:00+00:00",
-          "size": 182000000,
-          "downloadURL": "https://ia600202.us.archive.org/6/items/YouTubeRebornPlus_19.10.5-4.2.6/yt-uYE-19212-304.ipa",
+          "version": "19.11.2",
+          "date": "2024-10-03T12:00:00+00:00",
+          "size": 185000000,
+          "downloadURL": "https://archive.org/download/uYouEnhanced_19.11.2/yt-uYE-19112.ipa",
           "localizedDescription": "- Updated to latest YouTube base.\n- Improved background playback.\n- Bug fixes and performance enhancements.",
           "minOSVersion": "14.0"
         },
         {
-          "version": "19.10.5",
-          "date": "2025-01-20T12:00:00+00:00",
-          "size": 180000000,
-          "downloadURL": "https://ia600202.us.archive.org/6/items/YouTubeRebornPlus_19.10.5-4.2.6/yt-uYE-19212-304.ipa",
-          "localizedDescription": "- Initial release of uYou Enhanced with all premium features unlocked.",
+          "version": "19.10.1",
+          "date": "2024-09-15T12:00:00+00:00",
+          "size": 183000000,
+          "downloadURL": "https://archive.org/download/uYouEnhanced_19.10.1/yt-uYE-19101.ipa",
+          "localizedDescription": "- Added experimental ad-blocking improvements.\n- Fixed issue with video downloads.\n- Minor UI adjustments.",
           "minOSVersion": "14.0"
         }
       ],
@@ -52,12 +52,12 @@
   ],
   "news": [
     {
-      "title": "New Update for uYou Enhanced!",
-      "identifier": "uyouenhanced-update-19.12.3",
-      "caption": "Download version 19.12.3 with new fixes and improvements!",
-      "date": "2025-02-10T12:00:00+00:00",
+      "title": "New uYou Enhanced Update!",
+      "identifier": "uyouenhanced-update-19.11.2",
+      "caption": "Download version 19.11.2 with new fixes and improvements!",
+      "date": "2024-10-03T12:00:00+00:00",
       "tintColor": "#FF0000",
-      "imageURL": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY=s512-rw",
+      "imageURL": "https://raw.githubusercontent.com/qnblackcat/uYouPlus/main/Assets/uYouEnhancedIcon.png",
       "notify": true,
       "appID": "com.uYouEnhanced"
     }
