@@ -1,12 +1,12 @@
 {
   "name": "SimonRejzek Official",
-  "subtitle": "The best modded YouTube experience",
-  "identifier": "com.uYouEnhanced.source",
-  "description": "uYou Enhanced is a feature-packed mod for the YouTube app, offering ad-blocking, background playback, and more!",
+  "subtitle": "A collection of apps maintained by SimonRejzek",
+  "identifier": "com.simonrejzek.source",
+  "description": "This source contains various apps, including ones created by SimonRejzek and others maintained by him. Expect a mix of powerful tools, tweaks, and enhanced apps!",
   "iconURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
   "headerURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
   "website": "https://github.com/qnblackcat/uYouPlus",
-  "tintColor": "#00ccff",
+  "tintColor": "#00bff3",
   "featuredApps": ["com.uYouEnhanced"],
   "apps": [
     {
@@ -53,6 +53,40 @@
           "mediaLibrary": "Access to saved videos and audio."
         }
       }
+    },
+    {
+      "name": "Example App by SimonRejzek",
+      "bundleIdentifier": "com.simonrejzek.exampleapp",
+      "developerName": "SimonRejzek",
+      "subtitle": "A custom app made by SimonRejzek.",
+      "version": "1.0.0",
+      "versionDate": "2024-10-03T12:00:00+00:00",
+      "versionDescription": "- Initial release of the example app.",
+      "downloadURL": "https://example.com/download/exampleapp.ipa",
+      "localizedDescription": "This is an example app created by SimonRejzek. More details coming soon.",
+      "iconURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
+      "tintColor": "#00bff3",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2024-10-03T12:00:00+00:00",
+          "size": 50000000,
+          "downloadURL": "https://example.com/download/exampleapp.ipa",
+          "localizedDescription": "- Initial release of the example app.",
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.network.client",
+          "com.apple.security.files.user-selected.read-write"
+        ],
+        "privacy": {
+          "camera": "Access for certain app features.",
+          "photoLibrary": "Used for media-related functionalities."
+        }
+      }
     }
   ],
   "news": [
@@ -65,6 +99,16 @@
       "imageURL": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY=s512-rw",
       "notify": true,
       "appID": "com.uYouEnhanced"
+    },
+    {
+      "title": "New App by SimonRejzek!",
+      "identifier": "simonrejzek-newapp",
+      "caption": "Check out the latest app from SimonRejzek!",
+      "date": "2024-10-03T12:00:00+00:00",
+      "tintColor": "#00bff3",
+      "imageURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
+      "notify": true,
+      "appID": "com.simonrejzek.exampleapp"
     }
   ]
 }
