@@ -1,67 +1,26 @@
 {
+  "name": "Null's Brawl",
+  "identifier": "com.nullsbrawl.source",
   "apps": [
     {
       "beta": false,
+      "name": "Null's Brawl",
       "bundleIdentifier": "com.nullsbrawl",
       "developerName": "Null's Team",
-      "META": { "repoName": "Null's Brawl AltStore Repo" },
-      "contact": {
-          "web": "https://nulls.gg/"
-      },
-      "downloadURL": "https://www.dropbox.com/scl/fi/some-file/nullsbrawl_50.221.ipa?dl=1",
-      "iconURL": "https://example.com/nullsbrawl-icon.png",
-      "localizedDescription": "Join the best private Brawl Stars server with unlimited resources, custom mods, and exclusive features!",
-      "name": "Null's Brawl",
-      "screenshotURLs": [
-        "https://example.com/screenshot1.png",
-        "https://example.com/screenshot2.png",
-        "https://example.com/screenshot3.png"
-      ],
-      "size": 250000000,
-      "appPermissions": {
-        "entitlements": [
-          {
-            "name": "com.apple.security.application-groups"
-          },
-          {
-            "name": "get-task-allow"
-          }
-        ],
-        "privacy": [
-          {
-            "name": "NetworkAccess",
-            "usageDescription": "Required for online gameplay and custom servers."
-          },
-          {
-            "name": "PhotoLibrary",
-            "usageDescription": "Allows saving in-game screenshots."
-          }
-        ]
-      },
-      "subtitle": "The best private server for Brawl Stars!",
-      "tintColor": "FFCC00",
+      "subtitle": "Private server version of Brawl Stars.",
       "version": "50.221",
-      "versionDate": "2025-02-10",
-      "versionDescription": "• Latest Null's Brawl update\n• Custom game modes\n• Bug fixes and optimizations"
-    }
-  ],
-  "identifier": "com.nullsbrawl.source",
-  "name": "Null's Brawl AltStore Repo",
-  "subtitle": "Official Null's Brawl Private Server",
-  "description": "Get the latest version of Null's Brawl – the most popular Brawl Stars private server with unlimited gems, coins, and custom mods!\n\nVisit https://nulls.gg/ for updates and news.",
-  "iconURL": "https://example.com/nullsbrawl-icon.png",
-  "sourceURL": "https://nulls.gg/altstore/apps.json",
-  "website": "https://nulls.gg/",
-  "news": [
-    {
-      "appID": "com.nullsbrawl",
-      "caption": "Null's Brawl v50.221 is now available!",
-      "date": "2025-02-10",
-      "identifier": "new-update",
-      "notify": true,
+      "versionDate": "2025-02-10T12:00:00+00:00",
+      "versionDescription": "Latest update with new brawlers, skins, and features.",
+      "downloadURL": "https://www.dropbox.com/scl/fi/some-file/nullsbrawl_50.221.ipa?dl=1",
+      "localizedDescription": "Null's Brawl is a private server version of Brawl Stars, featuring unlimited resources, custom mods, and exclusive skins.",
+      "iconURL": "https://example.com/nullsbrawl-icon.png",
       "tintColor": "FFCC00",
-      "title": "Null's Brawl Update - 10th February 2025"
+      "size": 262144000,
+      "screenshotURLs": [
+        "https://example.com/nullsbrawl-screenshot1.png",
+        "https://example.com/nullsbrawl-screenshot2.png",
+        "https://example.com/nullsbrawl-screenshot3.png"
+      ]
     }
-  ],
-  "userInfo": {}
+  ]
 }
