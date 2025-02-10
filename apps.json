@@ -1,10 +1,10 @@
 {
-  "name": "uYou Enhanced Source",
+  "name": "SimonRejzek Official",
   "subtitle": "The best modded YouTube experience",
   "identifier": "com.uYouEnhanced.source",
   "description": "uYou Enhanced is a feature-packed mod for the YouTube app, offering ad-blocking, background playback, and more!",
-  "iconURL": "https://raw.githubusercontent.com/qnblackcat/uYouPlus/main/Assets/uYouEnhancedIcon.png",
-  "headerURL": "https://raw.githubusercontent.com/qnblackcat/uYouPlus/main/Assets/uYouEnhancedHeader.png",
+  "iconURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
+  "headerURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
   "website": "https://github.com/qnblackcat/uYouPlus",
   "tintColor": "#FF0000",
   "featuredApps": ["com.uYouEnhanced"],
@@ -14,25 +14,21 @@
       "bundleIdentifier": "com.uYouEnhanced",
       "developerName": "uYou Enhanced Team",
       "subtitle": "The ultimate YouTube mod with enhanced features.",
-      "version": "19.11.2",
+      "version": "19.33.2",
       "versionDate": "2024-10-03T12:00:00+00:00",
-      "versionDescription": "- Updated to latest YouTube base.\n- Improved background playback.\n- Bug fixes and performance enhancements.",
-      "downloadURL": "https://archive.org/download/uYouEnhanced_19.11.2/yt-uYE-19112.ipa",
+      "versionDescription": "- YouTube v19.08.2.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.",
+      "downloadURL": "https://archive.org/download/uYouEnhanced_19.33.2/yt-uYE-19332.ipa",
       "localizedDescription": "uYou Enhanced is a modified version of YouTube that includes:\n- Ad-blocking\n- Background playback\n- PiP mode\n- Download videos\n- Improved speed controls\n- No login required\n\nEnjoy YouTube with a better experience!",
-      "iconURL": "https://raw.githubusercontent.com/qnblackcat/uYouPlus/main/Assets/uYouEnhancedIcon.png",
+      "iconURL": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY=s512-rw",
       "tintColor": "#FF0000",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/qnblackcat/uYouPlus/main/Assets/screenshot1.png",
-        "https://raw.githubusercontent.com/qnblackcat/uYouPlus/main/Assets/screenshot2.png",
-        "https://raw.githubusercontent.com/qnblackcat/uYouPlus/main/Assets/screenshot3.png"
-      ],
+      "screenshotURLs": [],
       "versions": [
         {
-          "version": "19.11.2",
+          "version": "19.33.2",
           "date": "2024-10-03T12:00:00+00:00",
-          "size": 185000000,
-          "downloadURL": "https://archive.org/download/uYouEnhanced_19.11.2/yt-uYE-19112.ipa",
-          "localizedDescription": "- Updated to latest YouTube base.\n- Improved background playback.\n- Bug fixes and performance enhancements.",
+          "size": 190000000,
+          "downloadURL": "https://archive.org/download/uYouEnhanced_19.33.2/yt-uYE-19332.ipa",
+          "localizedDescription": "- YouTube v19.08.2.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.",
           "minOSVersion": "14.0"
         },
         {
@@ -45,19 +41,28 @@
         }
       ],
       "appPermissions": {
-        "entitlements": ["com.apple.security.network.client"],
-        "privacy": {}
+        "entitlements": [
+          "com.apple.security.network.client",
+          "com.apple.security.application-groups",
+          "com.apple.security.files.user-selected.read-write"
+        ],
+        "privacy": {
+          "camera": "Used for live streaming and video recording.",
+          "microphone": "Required for recording videos and live streaming.",
+          "photoLibrary": "Used for uploading videos to YouTube.",
+          "mediaLibrary": "Access to saved videos and audio."
+        }
       }
     }
   ],
   "news": [
     {
       "title": "New uYou Enhanced Update!",
-      "identifier": "uyouenhanced-update-19.11.2",
-      "caption": "Download version 19.11.2 with new fixes and improvements!",
+      "identifier": "uyouenhanced-update-19.33.2",
+      "caption": "Download version 19.33.2 with new fixes and improvements!",
       "date": "2024-10-03T12:00:00+00:00",
       "tintColor": "#FF0000",
-      "imageURL": "https://raw.githubusercontent.com/qnblackcat/uYouPlus/main/Assets/uYouEnhancedIcon.png",
+      "imageURL": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY=s512-rw",
       "notify": true,
       "appID": "com.uYouEnhanced"
     }
