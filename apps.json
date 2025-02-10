@@ -1,26 +1,65 @@
 {
-  "name": "Null's Brawl",
-  "identifier": "com.nullsbrawl.source",
+  "name": "uYou Enhanced Source",
+  "subtitle": "The best modded YouTube experience",
+  "identifier": "com.uYouEnhanced.source",
+  "description": "uYou Enhanced is a feature-packed mod for the YouTube app, offering ad-blocking, background playback, and more!",
+  "iconURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
+  "headerURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
+  "website": "https://github.com/qnblackcat/uYouPlus",
+  "tintColor": "#FF0000",
+  "featuredApps": ["com.uYouEnhanced"],
   "apps": [
     {
-      "beta": false,
-      "name": "Null's Brawl",
-      "bundleIdentifier": "com.nullsbrawl",
-      "developerName": "Null's Team",
-      "subtitle": "Private server version of Brawl Stars.",
-      "version": "50.221",
+      "name": "uYou Enhanced",
+      "bundleIdentifier": "com.uYouEnhanced",
+      "developerName": "uYou Enhanced Team",
+      "subtitle": "The ultimate YouTube mod with enhanced features.",
+      "version": "19.12.3",
       "versionDate": "2025-02-10T12:00:00+00:00",
-      "versionDescription": "Latest update with new brawlers, skins, and features.",
-      "downloadURL": "https://www.dropbox.com/scl/fi/some-file/nullsbrawl_50.221.ipa?dl=1",
-      "localizedDescription": "Null's Brawl is a private server version of Brawl Stars, featuring unlimited resources, custom mods, and exclusive skins.",
-      "iconURL": "https://example.com/nullsbrawl-icon.png",
-      "tintColor": "FFCC00",
-      "size": 262144000,
+      "versionDescription": "- Updated to latest YouTube base.\n- Improved background playback.\n- Bug fixes and performance enhancements.",
+      "downloadURL": "https://ia600202.us.archive.org/6/items/YouTubeRebornPlus_19.10.5-4.2.6/yt-uYE-19212-304.ipa",
+      "localizedDescription": "uYou Enhanced is a modified version of YouTube that includes:\n- Ad-blocking\n- Background playback\n- PiP mode\n- Download videos\n- Improved speed controls\n- No login required\n\nEnjoy YouTube with a better experience!",
+      "iconURL": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY=s512-rw",
+      "tintColor": "#FF0000",
       "screenshotURLs": [
-        "https://example.com/nullsbrawl-screenshot1.png",
-        "https://example.com/nullsbrawl-screenshot2.png",
-        "https://example.com/nullsbrawl-screenshot3.png"
-      ]
+        "https://example.com/uyou-screenshot1.png",
+        "https://example.com/uyou-screenshot2.png",
+        "https://example.com/uyou-screenshot3.png"
+      ],
+      "versions": [
+        {
+          "version": "19.12.3",
+          "date": "2025-02-10T12:00:00+00:00",
+          "size": 182000000,
+          "downloadURL": "https://ia600202.us.archive.org/6/items/YouTubeRebornPlus_19.10.5-4.2.6/yt-uYE-19212-304.ipa",
+          "localizedDescription": "- Updated to latest YouTube base.\n- Improved background playback.\n- Bug fixes and performance enhancements.",
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "19.10.5",
+          "date": "2025-01-20T12:00:00+00:00",
+          "size": 180000000,
+          "downloadURL": "https://ia600202.us.archive.org/6/items/YouTubeRebornPlus_19.10.5-4.2.6/yt-uYE-19212-304.ipa",
+          "localizedDescription": "- Initial release of uYou Enhanced with all premium features unlocked.",
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": ["com.apple.security.network.client"],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "New Update for uYou Enhanced!",
+      "identifier": "uyouenhanced-update-19.12.3",
+      "caption": "Download version 19.12.3 with new fixes and improvements!",
+      "date": "2025-02-10T12:00:00+00:00",
+      "tintColor": "#FF0000",
+      "imageURL": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY=s512-rw",
+      "notify": true,
+      "appID": "com.uYouEnhanced"
     }
   ]
 }
