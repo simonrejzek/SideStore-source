@@ -1,25 +1,25 @@
 {
-  "name": "Flyinghead",
-  "identifier": "com.flyinghead.source",
+  "name": "Null's Brawl",
+  "identifier": "com.nullsbrawl.source",
   "apps": [
     {
       "beta": false,
-      "name": "Flycast",
-      "bundleIdentifier": "com.flyinghead.Flycast",
-      "developerName": "Flyinghead",
-      "subtitle": "Dreamcast, Naomi and Atomiswave emulator.",
-      "version": "v2.4",
-      "versionDate": "2024-10-23T15:39:00+02:00",
-      "versionDescription": "Retro achievements, improved UI",
-      "downloadURL": "https://github.com/flyinghead/flycast/releases/download/v2.4/Flycast-2.4.ipa",
-      "localizedDescription": "Flycast is a Dreamcast, Naomi, Naomi 2 and Atomiswave emulator.",
-      "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
-      "tintColor": "9b54fd",
-      "size": 7885887,
+      "name": "Null's Brawl",
+      "bundleIdentifier": "com.nullsbrawl",
+      "developerName": "Null's Team",
+      "subtitle": "Private server version of Brawl Stars.",
+      "version": "50.221",
+      "versionDate": "2025-02-10T12:00:00+00:00",
+      "versionDescription": "Latest update with new brawlers, skins, and features.",
+      "downloadURL": "https://www.dropbox.com/scl/fi/some-file/nullsbrawl_50.221.ipa?dl=1",
+      "localizedDescription": "Null's Brawl is a private server version of Brawl Stars, featuring unlimited resources, custom mods, and exclusive skins.",
+      "iconURL": "https://example.com/nullsbrawl-icon.png",
+      "tintColor": "FFCC00",
+      "size": 262144000,
       "screenshotURLs": [
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot1.png",
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot2.png",
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot3.png"
+        "https://example.com/nullsbrawl-screenshot1.png",
+        "https://example.com/nullsbrawl-screenshot2.png",
+        "https://example.com/nullsbrawl-screenshot3.png"
       ]
     }
   ]
