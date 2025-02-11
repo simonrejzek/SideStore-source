@@ -27,31 +27,51 @@
           "version": "20.05.4",
           "date": "2025-02-11T06:35:00+00:00",
           "size": 307200000,
-          "beta": false,
+          "beta": true,
           "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/20.05.4/YT.ipa",
           "localizedDescription": "- YouTube v20.05.4.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to the latest YouTube release.",
           "minOSVersion": "15.0"
         }
       ],
       "appPermissions": {
-        "entitlements": [
-          "com.apple.security.network.client",
-          "com.apple.security.application-groups",
-          "com.apple.security.files.user-selected.read-write",
-          "com.apple.background-mode.audio",
-          "com.apple.background-mode.fetch",
-          "com.apple.background-mode.external-accessory",
-          "com.apple.developer.media-player",
-          "com.apple.developer.avfoundation.multitasking-mode",
-          "com.apple.developer.playable-content",
-          "com.apple.developer.pushkit.unrestricted-voip",
-          "com.apple.security.device.camera",
-          "com.apple.security.device.microphone"
-        ],
-        "privacy": {
-          "Camera": "Used for live streaming and video recording.",
-          "Microphone": "Required for recording videos and live streaming.",
-          "Photo Library": "Used for uploading videos to YouTube."
+          "entitlements": [
+            "com.apple.security.network.client",
+            "com.apple.security.application-groups",
+            "com.apple.security.files.user-selected.read-write",
+            "com.apple.background-mode.audio",
+            "com.apple.background-mode.fetch",
+            "com.apple.background-mode.external-accessory",
+            "com.apple.developer.media-player",
+            "com.apple.developer.avfoundation.multitasking-mode",
+            "com.apple.developer.playable-content",
+            "com.apple.developer.pushkit.unrestricted-voip",
+            "com.apple.security.device.camera",
+            "com.apple.security.device.microphone",
+            "com.apple.developer.associated-domains",
+            "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+            "com.apple.developer.usernotifications.time-sensitive",
+            "get-task-allow",
+            "com.apple.developer.device-information.user-assigned-device-name",
+            "com.apple.developer.group-session",
+            "keychain-access-groups",
+            "com.apple.developer.networking.multicast",
+            "aps-environment",
+            "com.apple.developer.siri",
+            "com.apple.developer.networking.wifi-info"
+          ],
+          "privacy": {
+            "camera": "Used for live streaming and video recording.",
+            "microphone": "Required for recording videos and live streaming.",
+            "photoLibrary": "Used for importing videos for editing or uploading.",
+            "mediaLibrary": "Access to saved YouTube videos inside the app.",
+            "NSAppleMusicUsageDescription": "Required for integrating with Apple Music.",
+            "NSBluetoothPeripheralUsageDescription": "Needed for connecting to Bluetooth devices.",
+            "NSContactsUsageDescription": "Allows access to contacts for sharing and syncing data.",
+            "NSLocalNetworkUsageDescription": "Required to detect and connect to local network devices.",
+            "NSLocationWhenInUseUsageDescription": "Needed for location-based services in the app.",
+            "NSPhotoLibraryUsageDescription": "Allows saving and accessing photos and videos.",
+            "NSUserTrackingUsageDescription": "Required for tracking user interactions with ads and analytics."
+          }
         }
       }
     }
