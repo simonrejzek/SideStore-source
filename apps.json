@@ -24,7 +24,14 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/41/da/e241da02-6419-1854-71b1-dd6fae5f2714/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x0w.png",
       "tintColor": "#ff0931",
       "beta": true,
-      "screenshotURLs": [],
+      "screenshotURLs": [
+        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/1.png?raw=true",
+        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/2.png?raw=true",
+        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/3.png?raw=true",
+        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/4.png?raw=true",
+        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/5.png?raw=true",
+        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/6.png?raw=true"
+      ],
       "versions": [
         {
           "version": "20.05.4",
