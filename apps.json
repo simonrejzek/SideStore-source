@@ -1,94 +1,92 @@
 {
-   "name":"SimonRejzek's Source",
-   "subtitle":"A collection of apps maintained by Simon Rejzek",
-   "identifier":"com.simonrejzek.source",
-   "description":"Apps created or maintained by Simon Rejzek are now available on AltStore and SideStore! Explore the full list of apps or visit my GitHub for more details.",
-   "iconURL":"https://avatars.githubusercontent.com/u/134806168?v=4",
-   "headerURL":"https://avatars.githubusercontent.com/u/134806168?v=4",
-   "website":"https://github.com/simonrejzek",
-   "tintColor":"#009cc7",
-   "featuredApps":[
-      "com.google.ios.youtube"
-   ],
-   "apps":[
-      {
-         "name":"YouTube",
-         "bundleIdentifier":"com.google.ios.youtube",
-         "developerName":"arichornlover",
-         "subtitle":"The ultimate YouTube mod with enhanced features.",
-         "version":"20.05.4",
-         "versionDate":"2025-02-11T06:35:00+00:00",
-         "versionDescription":"- YouTube v20.05.4.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to the latest YouTube release.",
-         "downloadURL":"https://github.com/simonrejzek/SideStore-source/releases/download/20.05.4/YT.ipa",
-         "localizedDescription":"YouTube (uYou Enhanced) is a modified version of the official app that includes Ad-blocking, Background playback, PiP mode, Download videos, Improved speed controls and more. Enjoy YouTube with a better experience!",
-         "iconURL":"https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/41/da/e241da02-6419-1854-71b1-dd6fae5f2714/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x0w.png",
-         "tintColor":"#ff0931",
-         "beta":true,
-         "screenshotURLs":[
-            
-         ],
-         "versions":[
-            {
-               "version":"20.05.4",
-               "date":"2025-02-11T06:35:00+00:00",
-               "size":307200000,
-               "downloadURL":"https://github.com/simonrejzek/SideStore-source/releases/download/20.05.4/YT.ipa",
-               "localizedDescription":"- YouTube v20.05.4.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to the latest YouTube release.",
-               "minOSVersion":"15.0"
-            }
-         ],
-         "appPermissions":{
-            "entitlements":[
-               "com.apple.security.network.client",
-               "com.apple.security.application-groups",
-               "com.apple.security.files.user-selected.read-write",
-               "com.apple.background-mode.audio",
-               "com.apple.background-mode.fetch",
-               "com.apple.background-mode.external-accessory",
-               "com.apple.developer.media-player",
-               "com.apple.developer.avfoundation.multitasking-mode",
-               "com.apple.developer.playable-content",
-               "com.apple.developer.pushkit.unrestricted-voip",
-               "com.apple.security.device.camera",
-               "com.apple.security.device.microphone",
-               "com.apple.developer.associated-domains",
-               "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
-               "com.apple.developer.usernotifications.time-sensitive",
-               "get-task-allow",
-               "com.apple.developer.device-information.user-assigned-device-name",
-               "com.apple.developer.group-session",
-               "keychain-access-groups",
-               "com.apple.developer.networking.multicast",
-               "aps-environment",
-               "com.apple.developer.siri",
-               "com.apple.developer.networking.wifi-info"
-            ],
-            "privacy":{
-               "camera":"Used for live streaming and video recording.",
-               "microphone":"Required for recording videos and live streaming.",
-               "photoLibrary":"Used for importing videos for editing or uploading.",
-               "mediaLibrary":"Access to saved YouTube videos inside the app.",
-               "NSAppleMusicUsageDescription":"Required for integrating with Apple Music.",
-               "NSBluetoothPeripheralUsageDescription":"Needed for connecting to Bluetooth devices.",
-               "NSContactsUsageDescription":"Allows access to contacts for sharing and syncing data.",
-               "NSLocalNetworkUsageDescription":"Required to detect and connect to local network devices.",
-               "NSLocationWhenInUseUsageDescription":"Needed for location-based services in the app.",
-               "NSPhotoLibraryUsageDescription":"Allows saving and accessing photos and videos.",
-               "NSUserTrackingUsageDescription":"Required for tracking user interactions with ads and analytics."
-            }
-         }
+  "name": "SimonRejzek's Source",
+  "subtitle": "A collection of apps maintained by Simon Rejzek",
+  "identifier": "com.simonrejzek.source",
+  "description": "Apps created or maintained by Simon Rejzek are now available on AltStore and SideStore! Explore the full list of apps or visit my GitHub for more details.",
+  "iconURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
+  "headerURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
+  "website": "https://github.com/simonrejzek",
+  "tintColor": "#009cc7",
+  "featuredApps": [
+    "com.google.ios.youtube"
+  ],
+  "apps": [
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "arichornlover",
+      "subtitle": "The ultimate YouTube mod with enhanced features.",
+      "version": "20.05.4",
+      "versionDate": "2025-02-11T06:35:00+00:00",
+      "versionDescription": "- YouTube v20.05.4.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to the latest YouTube release.",
+      "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/20.05.4/YT.ipa",
+      "localizedDescription": "YouTube (uYou Enhanced) is a modified version of the official app that includes Ad-blocking, Background playback, PiP mode, Download videos, Improved speed controls and more. Enjoy YouTube with a better experience!",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/41/da/e241da02-6419-1854-71b1-dd6fae5f2714/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x0w.png",
+      "tintColor": "#ff0931",
+      "beta": true,
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "20.05.4",
+          "date": "2025-02-11T06:35:00+00:00",
+          "size": 307200000,
+          "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/20.05.4/YT.ipa",
+          "localizedDescription": "- YouTube v20.05.4.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to the latest YouTube release.",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.network.client",
+          "com.apple.security.application-groups",
+          "com.apple.security.files.user-selected.read-write",
+          "com.apple.background-mode.audio",
+          "com.apple.background-mode.fetch",
+          "com.apple.background-mode.external-accessory",
+          "com.apple.developer.media-player",
+          "com.apple.developer.avfoundation.multitasking-mode",
+          "com.apple.developer.playable-content",
+          "com.apple.developer.pushkit.unrestricted-voip",
+          "com.apple.security.device.camera",
+          "com.apple.security.device.microphone",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "get-task-allow",
+          "com.apple.developer.device-information.user-assigned-device-name",
+          "com.apple.developer.group-session",
+          "keychain-access-groups",
+          "com.apple.developer.networking.multicast",
+          "aps-environment",
+          "com.apple.developer.siri",
+          "com.apple.developer.networking.wifi-info"
+        ],
+        "privacy": {
+          "camera": "Used for live streaming and video recording.",
+          "microphone": "Required for recording videos and live streaming.",
+          "photoLibrary": "Used for importing videos for editing or uploading.",
+          "mediaLibrary": "Access to saved YouTube videos inside the app.",
+          "NSAppleMusicUsageDescription": "Required for integrating with Apple Music.",
+          "NSBluetoothPeripheralUsageDescription": "Needed for connecting to Bluetooth devices.",
+          "NSContactsUsageDescription": "Allows access to contacts for sharing and syncing data.",
+          "NSLocalNetworkUsageDescription": "Required to detect and connect to local network devices.",
+          "NSLocationWhenInUseUsageDescription": "Needed for location-based services in the app.",
+          "NSPhotoLibraryUsageDescription": "Allows saving and accessing photos and videos.",
+          "NSUserTrackingUsageDescription": "Required for tracking user interactions with ads and analytics."
+        }
       }
-   ],
-   "news":[
-      {
-         "title":"YouTube Released!",
-         "identifier":"youtube-update-20.05.4",
-         "caption":"The ultimate YouTube tweak is now available on AltStore and SideStore! Tap to download.",
-         "date":"2025-02-11T06:35:00+00:00",
-         "tintColor":"#0f0f0f",
-         "imageURL":"https://i.ibb.co/B2bYV7vy/youtube-poster.png",
-         "notify":true,
-         "appID":"com.google.ios.youtube"
-      }
-   ]
+    }
+  ],
+  "news": [
+    {
+      "title": "YouTube Released!",
+      "identifier": "youtube-update-20.05.4",
+      "caption": "The ultimate YouTube tweak is now available on AltStore and SideStore! Tap to download.",
+      "date": "2025-02-11T06:35:00+00:00",
+      "tintColor": "#0f0f0f",
+      "imageURL": "https://i.ibb.co/B2bYV7vy/youtube-poster.png",
+      "notify": true,
+      "appID": "com.google.ios.youtube"
+    }
+  ]
 }
