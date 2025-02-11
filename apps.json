@@ -6,12 +6,12 @@
   "iconURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
   "headerURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
   "website": "https://github.com/qnblackcat/uYouPlus",
-  "tintColor": "#00bff3",
-  "featuredApps": ["com.uYouEnhanced"],
+  "tintColor": "#006e8c",
+  "featuredApps": ["com.google.ios.youtube"],
   "apps": [
     {
       "name": "uYou Enhanced",
-      "bundleIdentifier": "com.uYouEnhanced",
+      "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "uYou Enhanced Team",
       "subtitle": "The ultimate YouTube mod with enhanced features.",
       "version": "19.33.2",
@@ -24,20 +24,12 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "19.33.2",
-          "date": "2024-10-03T12:00:00+00:00",
-          "size": 190000000,
+          "version": "19.49.7",
+          "date": "2025-01-011T12:00:00+00:00",
+          "size": 127400000,
           "downloadURL": "https://archive.org/download/uYouEnhanced_19.33.2/yt-uYE-19332.ipa",
           "localizedDescription": "- YouTube v19.08.2.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.",
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "19.10.1",
-          "date": "2024-09-15T12:00:00+00:00",
-          "size": 183000000,
-          "downloadURL": "https://archive.org/download/uYouEnhanced_19.10.1/yt-uYE-19101.ipa",
-          "localizedDescription": "- Added experimental ad-blocking improvements.\n- Fixed issue with video downloads.\n- Minor UI adjustments.",
-          "minOSVersion": "14.0"
+          "minOSVersion": "15.0"
         }
       ],
       "appPermissions": {
