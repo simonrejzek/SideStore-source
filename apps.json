@@ -10,15 +10,15 @@
   "featuredApps": ["com.google.ios.youtube"],
   "apps": [
     {
-      "name": "uYou Enhanced",
+      "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "uYou Enhanced Team",
       "subtitle": "The ultimate YouTube mod with enhanced features.",
       "version": "20.05.4 Beta",
       "versionDate": "2025-02-11T06:35:00+00:00",
       "versionDescription": "- YouTube v20.05.4.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to the latest YouTube release.",
-      "downloadURL": "https://archive.org/download/uYouEnhanced_20.05.4/yt-uYE-20054.ipa",
-      "localizedDescription": "uYou Enhanced is a modified version of YouTube that includes:\n- Ad-blocking\n- Background playback\n- PiP mode\n- Download videos\n- Improved speed controls\n- No login required\n\nEnjoy YouTube with a better experience!",
+      "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/20.05.4/YT.ipa",
+      "localizedDescription": "YouTube (uYou Enhanced) is a modified version of the official app that includes:\n- Ad-blocking\n- Background playback\n- PiP mode\n- Download videos\n- Improved speed controls\n- No login required\n\nEnjoy YouTube with a better experience!",
       "iconURL": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY=s512-rw",
       "tintColor": "#D32F2F",
       "screenshotURLs": [],
@@ -26,8 +26,8 @@
         {
           "version": "20.05.4 Beta",
           "date": "2025-02-11T06:35:00+00:00",
-          "size": 298000000,
-          "downloadURL": "https://archive.org/download/uYouEnhanced_20.05.4/yt-uYE-20054.ipa",
+          "size": 307200000,
+          "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/20.05.4/YT.ipa",
           "localizedDescription": "- YouTube v20.05.4.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to the latest YouTube release.",
           "minOSVersion": "15.0"
         }
@@ -49,8 +49,8 @@
   ],
   "news": [
     {
-      "title": "New uYou Enhanced Beta Released!",
-      "identifier": "uyouenhanced-update-20.05.4",
+      "title": "New YouTube Beta Released!",
+      "identifier": "youtube-update-20.05.4",
       "caption": "Download version 20.05.4 (Beta) with the latest fixes and improvements!",
       "date": "2025-02-11T06:35:00+00:00",
       "tintColor": "#D32F2F",
