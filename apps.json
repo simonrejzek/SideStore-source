@@ -14,21 +14,21 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "uYou Enhanced Team",
       "subtitle": "The ultimate YouTube mod with enhanced features.",
-      "version": "19.33.2",
-      "versionDate": "2024-10-03T12:00:00+00:00",
-      "versionDescription": "- YouTube v19.08.2.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.",
-      "downloadURL": "https://archive.org/download/uYouEnhanced_19.33.2/yt-uYE-19332.ipa",
+      "version": "20.05.4 Beta",
+      "versionDate": "2025-02-11T07:35:00+00:00",
+      "versionDescription": "- YouTube v20.05.4.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to the latest YouTube release.",
+      "downloadURL": "https://archive.org/download/uYouEnhanced_20.05.4/yt-uYE-20054.ipa",
       "localizedDescription": "uYou Enhanced is a modified version of YouTube that includes:\n- Ad-blocking\n- Background playback\n- PiP mode\n- Download videos\n- Improved speed controls\n- No login required\n\nEnjoy YouTube with a better experience!",
       "iconURL": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY=s512-rw",
-      "tintColor": "#FF0000",
+      "tintColor": "#007daa",
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "19.49.7",
-          "date": "2025-01-011T12:00:00+00:00",
-          "size": 127400000,
-          "downloadURL": "https://archive.org/download/uYouEnhanced_19.33.2/yt-uYE-19332.ipa",
-          "localizedDescription": "- YouTube v19.08.2.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.",
+          "version": "20.05.4 Beta",
+          "date": "2025-02-11T07:35:00+00:00",
+          "size": 298000000,
+          "downloadURL": "https://archive.org/download/uYouEnhanced_20.05.4/yt-uYE-20054.ipa",
+          "localizedDescription": "- YouTube v20.05.4.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to the latest YouTube release.",
           "minOSVersion": "15.0"
         }
       ],
@@ -39,68 +39,24 @@
           "com.apple.security.files.user-selected.read-write"
         ],
         "privacy": {
-          "camera": "Used for live streaming and video recording.",
-          "microphone": "Required for recording videos and live streaming.",
-          "photoLibrary": "Used for uploading videos to YouTube.",
-          "mediaLibrary": "Access to saved videos and audio."
-        }
-      }
-    },
-    {
-      "name": "Example App by SimonRejzek",
-      "bundleIdentifier": "com.simonrejzek.exampleapp",
-      "developerName": "SimonRejzek",
-      "subtitle": "A custom app made by SimonRejzek.",
-      "version": "1.0.0",
-      "versionDate": "2024-10-03T12:00:00+00:00",
-      "versionDescription": "- Initial release of the example app.",
-      "downloadURL": "https://example.com/download/exampleapp.ipa",
-      "localizedDescription": "This is an example app created by SimonRejzek. More details coming soon.",
-      "iconURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
-      "tintColor": "#00bff3",
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "date": "2024-10-03T12:00:00+00:00",
-          "size": 50000000,
-          "downloadURL": "https://example.com/download/exampleapp.ipa",
-          "localizedDescription": "- Initial release of the example app.",
-          "minOSVersion": "14.0"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.security.network.client",
-          "com.apple.security.files.user-selected.read-write"
-        ],
-        "privacy": {
-          "camera": "Access for certain app features.",
-          "photoLibrary": "Used for media-related functionalities."
+          "Camera": "Used for live streaming and video recording.",
+          "Microphone": "Required for recording videos and live streaming.",
+          "PhotoLibrary": "Used for uploading videos to YouTube.",
+          "MediaLibrary": "Access to saved videos and audio."
         }
       }
     }
   ],
   "news": [
     {
-      "title": "New uYou Enhanced Update!",
-      "identifier": "uyouenhanced-update-19.33.2",
-      "caption": "Download version 19.33.2 with new fixes and improvements!",
-      "date": "2024-10-03T12:00:00+00:00",
-      "tintColor": "#FF0000",
+      "title": "New uYou Enhanced Beta Released!",
+      "identifier": "uyouenhanced-update-20.05.4",
+      "caption": "Download version 20.05.4 (Beta) with the latest fixes and improvements!",
+      "date": "2025-02-11T07:35:00+00:00",
+      "tintColor": "#007daa",
       "imageURL": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY=s512-rw",
       "notify": true,
-      "appID": "com.uYouEnhanced"
-    },
-    {
-      "title": "New App by SimonRejzek!",
-      "identifier": "simonrejzek-newapp",
-      "caption": "Check out the latest app from SimonRejzek!",
-      "date": "2024-10-03T12:00:00+00:00",
-      "tintColor": "#00bff3",
-      "imageURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
-      "notify": true,
-      "appID": "com.simonrejzek.exampleapp"
+      "appID": "com.google.ios.youtube"
     }
   ]
 }
