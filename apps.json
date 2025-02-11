@@ -5,7 +5,7 @@
   "description": "This source contains various apps, including ones created by SimonRejzek and others maintained by him. Expect a mix of powerful tools, tweaks, and enhanced apps!",
   "iconURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
   "headerURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
-  "website": "https://github.com/qnblackcat/uYouPlus",
+  "website": "",
   "tintColor": "#006e8c",
   "featuredApps": ["com.google.ios.youtube"],
   "apps": [
@@ -15,7 +15,7 @@
       "developerName": "uYou Enhanced Team",
       "subtitle": "The ultimate YouTube mod with enhanced features.",
       "version": "20.05.4 Beta",
-      "versionDate": "2025-02-11T07:35:00+00:00",
+      "versionDate": "2025-02-11T07:35:00+01:00",
       "versionDescription": "- YouTube v20.05.4.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to the latest YouTube release.",
       "downloadURL": "https://archive.org/download/uYouEnhanced_20.05.4/yt-uYE-20054.ipa",
       "localizedDescription": "uYou Enhanced is a modified version of YouTube that includes:\n- Ad-blocking\n- Background playback\n- PiP mode\n- Download videos\n- Improved speed controls\n- No login required\n\nEnjoy YouTube with a better experience!",
