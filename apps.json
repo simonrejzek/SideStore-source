@@ -7,57 +7,20 @@
   "headerURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
   "website": "https://simonrejzek.dev",
   "tintColor": "#006e8c",
-  "featuredApps": ["com.google.ios.youtube", "com.google.ios.youtube.beta"],
+  "featuredApps": ["com.google.ios.youtube"],
   "apps": [
     {
       "name": "uYou Enhanced",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "uYou Enhanced Team",
       "subtitle": "The ultimate YouTube mod with enhanced features.",
-      "version": "20.04.1",
-      "versionDate": "2025-01-15T06:35:00+00:00",
-      "versionDescription": "- Stable release based on YouTube v20.04.1.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.",
-      "downloadURL": "https://archive.org/download/uYouEnhanced_20.04.1/yt-uYE-20041.ipa",
-      "localizedDescription": "uYou Enhanced is a modified version of YouTube that includes:\n- Ad-blocking\n- Background playback\n- PiP mode\n- Download videos\n- Improved speed controls\n- No login required\n\nEnjoy YouTube with a better experience!",
-      "iconURL": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY=s512-rw",
-      "tintColor": "#D32F2F",
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "20.04.1",
-          "date": "2025-01-15T06:35:00+00:00",
-          "size": 295000000,
-          "downloadURL": "https://archive.org/download/uYouEnhanced_20.04.1/yt-uYE-20041.ipa",
-          "localizedDescription": "- Stable release based on YouTube v20.04.1.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.",
-          "minOSVersion": "15.0"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.security.network.client",
-          "com.apple.security.application-groups",
-          "com.apple.security.files.user-selected.read-write"
-        ],
-        "privacy": {
-          "camera": "Used for live streaming and video recording.",
-          "microphone": "Required for recording videos and live streaming.",
-          "photoLibrary": "Used for uploading videos to YouTube.",
-          "mediaLibrary": "Access to saved videos and audio."
-        }
-      }
-    },
-    {
-      "name": "uYou Enhanced Beta",
-      "bundleIdentifier": "com.google.ios.youtube.beta",
-      "developerName": "uYou Enhanced Team",
-      "subtitle": "Get early access to the latest features (Paid: $1.99)",
       "version": "20.05.4 Beta",
       "versionDate": "2025-02-11T06:35:00+00:00",
       "versionDescription": "- YouTube v20.05.4.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to the latest YouTube release.",
       "downloadURL": "https://archive.org/download/uYouEnhanced_20.05.4/yt-uYE-20054.ipa",
-      "localizedDescription": "**This is a beta version with the latest features before public release!**\n\nIncludes:\n- Early access to the newest YouTube features\n- Exclusive bug fixes and optimizations\n- Direct feedback to help improve future versions\n\n**This version requires a one-time payment of $1.99.**",
+      "localizedDescription": "uYou Enhanced is a modified version of YouTube that includes:\n- Ad-blocking\n- Background playback\n- PiP mode\n- Download videos\n- Improved speed controls\n- No login required\n\nEnjoy YouTube with a better experience!",
       "iconURL": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY=s512-rw",
-      "tintColor": "#BF360C",
+      "tintColor": "#D32F2F",
       "screenshotURLs": [],
       "versions": [
         {
@@ -88,21 +51,11 @@
     {
       "title": "New uYou Enhanced Beta Released!",
       "identifier": "uyouenhanced-update-20.05.4",
-      "caption": "Get early access to version 20.05.4 Beta for $1.99!",
+      "caption": "Download version 20.05.4 (Beta) with the latest fixes and improvements!",
       "date": "2025-02-11T06:35:00+00:00",
-      "tintColor": "#BF360C",
-      "imageURL": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY=s512-rw",
-      "notify": true,
-      "appID": "com.google.ios.youtube.beta"
-    },
-    {
-      "title": "Stable uYou Enhanced Update!",
-      "identifier": "uyouenhanced-update-20.04.1",
-      "caption": "Download the latest free stable version (20.04.1)!",
-      "date": "2025-01-15T06:35:00+00:00",
       "tintColor": "#D32F2F",
       "imageURL": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY=s512-rw",
-      "notify": false,
+      "notify": true,
       "appID": "com.google.ios.youtube"
     }
   ]
