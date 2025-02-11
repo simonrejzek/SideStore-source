@@ -5,7 +5,7 @@
   "description": "This source contains various apps, including ones created by SimonRejzek and others maintained by him. Expect a mix of powerful tools, tweaks, and enhanced apps!",
   "iconURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
   "headerURL": "https://avatars.githubusercontent.com/u/134806168?v=4",
-  "website": "http://example.com",
+  "website": "https://example.com",
   "tintColor": "#006e8c",
   "featuredApps": ["com.google.ios.youtube", "com.google.ios.youtube.beta"],
   "apps": [
