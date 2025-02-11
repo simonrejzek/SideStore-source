@@ -39,10 +39,10 @@
           "com.apple.security.files.user-selected.read-write"
         ],
         "privacy": {
-          "Camera": "Used for live streaming and video recording.",
-          "Microphone": "Required for recording videos and live streaming.",
-          "PhotoLibrary": "Used for uploading videos to YouTube.",
-          "MediaLibrary": "Access to saved videos and audio."
+          "camera": "Used for live streaming and video recording.",
+          "microphone": "Required for recording videos and live streaming.",
+          "photoLibrary": "Used for uploading videos to YouTube.",
+          "mediaLibrary": "Access to saved videos and audio."
         }
       }
     }
