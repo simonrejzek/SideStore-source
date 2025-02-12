@@ -79,11 +79,10 @@
       "version": "1.0.0",
       "versionDate": "2025-02-11T06:35:00+00:00",
       "versionDescription": "- Initial release of iPlay.\n- Stream movies and TV shows for free.\n- No account required.",
-      "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/1.0.0/iPlay.ipa",
       "localizedDescription": "iPlay is a free streaming app that lets you watch movies and TV shows without an account. Enjoy high-quality streaming with no subscriptions!",
       "iconURL": "https://github.com/simonrejzek/SideStore-source/blob/main/icons/iplay-icon.png?raw=true",
       "tintColor": "#1DB954",
-      "beta": false,
+      "available": false,
       "screenshotURLs": [
         "https://github.com/simonrejzek/SideStore-source/blob/main/iplay-screenshots/1.png?raw=true",
         "https://github.com/simonrejzek/SideStore-source/blob/main/iplay-screenshots/2.png?raw=true",
@@ -92,16 +91,7 @@
         "https://github.com/simonrejzek/SideStore-source/blob/main/iplay-screenshots/5.png?raw=true",
         "https://github.com/simonrejzek/SideStore-source/blob/main/iplay-screenshots/6.png?raw=true"
       ],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "date": "2025-02-11T06:35:00+00:00",
-          "size": 150000000,
-          "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/1.0.0/iPlay.ipa",
-          "localizedDescription": "- Initial release of iPlay.\n- Stream movies and TV shows for free.\n- No account required.",
-          "minOSVersion": "14.0"
-        }
-      ],
+      "versions": [],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
