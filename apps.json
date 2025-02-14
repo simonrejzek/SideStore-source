@@ -35,7 +35,7 @@
         {
           "version": "19.49.7",
           "date": "2025-02-11T06:35:00+00:00",
-          "size": 307200000,
+          "size": 117700000,
           "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/19.49.7/YT.ipa",
           "localizedDescription": "- YouTube v19.49.7.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to 19.49.7.",
           "minOSVersion": "15.0"
