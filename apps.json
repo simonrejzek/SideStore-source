@@ -16,28 +16,28 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "arichornlover",
       "subtitle": "The ultimate YouTube mod with enhanced features.",
-      "version": "19.49.7",
+      "version": "19.21.2",
       "versionDate": "2025-02-11T06:35:00+00:00",
-      "versionDescription": "- YouTube v19.49.7.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to the latest YouTube release.",
-      "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/19.49.7/YT.ipa",
+      "versionDescription": "- YouTube v19.21.2.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to 19.21.2.",
+      "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/19.21.2/YT.ipa",
       "localizedDescription": "YouTube (uYou Enhanced) is a modified version of the official app that includes Ad-blocking, Background playback, PiP mode, Download videos, Improved speed controls and more. Enjoy YouTube with a better experience!",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/41/da/e241da02-6419-1854-71b1-dd6fae5f2714/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x0w.png",
       "tintColor": "#ff0931",
       "screenshotURLs": [
-        "https://github.com/simonrejzek/SideStore-source/raw/main/screenshots/1.png",
-        "https://github.com/simonrejzek/SideStore-source/raw/main/screenshots/2.png",
-        "https://github.com/simonrejzek/SideStore-source/raw/main/screenshots/3.png",
-        "https://github.com/simonrejzek/SideStore-source/raw/main/screenshots/4.png",
-        "https://github.com/simonrejzek/SideStore-source/raw/main/screenshots/5.png",
-        "https://github.com/simonrejzek/SideStore-source/raw/main/screenshots/6.png"
+        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/1.png?raw=true",
+        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/2.png?raw=true",
+        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/3.png?raw=true",
+        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/4.png?raw=true",
+        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/5.png?raw=true",
+        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/6.png?raw=true"
       ],
       "versions": [
         {
-          "version": "19.49.7",
+          "version": "19.21.2",
           "date": "2025-02-11T06:35:00+00:00",
           "size": 307200000,
-          "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/19.49.7/YT.ipa",
-          "localizedDescription": "- YouTube v19.49.7.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to the latest YouTube release.",
+          "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/19.21.2/YT.ipa",
+          "localizedDescription": "- YouTube v19.21.2.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to 19.21.2.",
           "minOSVersion": "15.0"
         }
       ],
@@ -73,7 +73,7 @@
   "news": [
     {
       "title": "YouTube Released!",
-      "identifier": "youtube-update-19.49.7",
+      "identifier": "youtube-update-19.21.2",
       "caption": "The ultimate YouTube tweak is now available on AltStore and SideStore! Tap to download.",
       "date": "2025-02-11T06:35:00+00:00",
       "tintColor": "#0f0f0f",
