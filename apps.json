@@ -8,8 +8,7 @@
   "website": "https://github.com/simonrejzek",
   "tintColor": "#009cc7",
   "featuredApps": [
-    "com.google.ios.youtube",
-    "com.iplay.movies"
+    "com.google.ios.youtube"
   ],
   "apps": [
     {
@@ -17,29 +16,28 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "arichornlover",
       "subtitle": "The ultimate YouTube mod with enhanced features.",
-      "version": "20.05.4",
+      "version": "19.49.7",
       "versionDate": "2025-02-11T06:35:00+00:00",
-      "versionDescription": "- YouTube v20.05.4.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to the latest YouTube release.",
-      "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/20.05.4/YT.ipa",
+      "versionDescription": "- YouTube v19.49.7.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to the latest YouTube release.",
+      "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/19.49.7/YT.ipa",
       "localizedDescription": "YouTube (uYou Enhanced) is a modified version of the official app that includes Ad-blocking, Background playback, PiP mode, Download videos, Improved speed controls and more. Enjoy YouTube with a better experience!",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/41/da/e241da02-6419-1854-71b1-dd6fae5f2714/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x0w.png",
       "tintColor": "#ff0931",
-      "beta": true,
       "screenshotURLs": [
-        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/1.png?raw=true",
-        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/2.png?raw=true",
-        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/3.png?raw=true",
-        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/4.png?raw=true",
-        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/5.png?raw=true",
-        "https://github.com/simonrejzek/SideStore-source/blob/main/yt-screenshots/6.png?raw=true"
+        "https://github.com/simonrejzek/SideStore-source/raw/main/screenshots/1.png",
+        "https://github.com/simonrejzek/SideStore-source/raw/main/screenshots/2.png",
+        "https://github.com/simonrejzek/SideStore-source/raw/main/screenshots/3.png",
+        "https://github.com/simonrejzek/SideStore-source/raw/main/screenshots/4.png",
+        "https://github.com/simonrejzek/SideStore-source/raw/main/screenshots/5.png",
+        "https://github.com/simonrejzek/SideStore-source/raw/main/screenshots/6.png"
       ],
       "versions": [
         {
-          "version": "20.05.4",
+          "version": "19.49.7",
           "date": "2025-02-11T06:35:00+00:00",
           "size": 307200000,
-          "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/20.05.4/YT.ipa",
-          "localizedDescription": "- YouTube v20.05.4.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to the latest YouTube release.",
+          "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/19.49.7/YT.ipa",
+          "localizedDescription": "- YouTube v19.49.7.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to the latest YouTube release.",
           "minOSVersion": "15.0"
         }
       ],
@@ -70,38 +68,12 @@
           "NSUserTrackingUsageDescription": "Required for tracking user interactions with ads and analytics."
         }
       }
-    },
-    {
-      "name": "iPlay",
-      "bundleIdentifier": "com.iplay.movies",
-      "developerName": "Simon Rejzek",
-      "subtitle": "Watch movies and TV shows for free.",
-      "version": "1.0.0",
-      "versionDate": "2025-02-11T06:35:00+00:00",
-      "versionDescription": "- Initial release of iPlay.\n- Stream movies and TV shows for free.\n- No account required.",
-      "localizedDescription": "iPlay is a free streaming app that lets you watch movies and TV shows without an account. Enjoy high-quality streaming with no subscriptions!",
-      "iconURL": "https://github.com/simonrejzek/SideStore-source/blob/main/icons/iplay-icon.png?raw=true",
-      "tintColor": "#1DB954",
-      "available": false,
-      "screenshotURLs": [
-        "https://github.com/simonrejzek/SideStore-source/blob/main/iplay-screenshots/1.png?raw=true",
-        "https://github.com/simonrejzek/SideStore-source/blob/main/iplay-screenshots/2.png?raw=true",
-        "https://github.com/simonrejzek/SideStore-source/blob/main/iplay-screenshots/3.png?raw=true",
-        "https://github.com/simonrejzek/SideStore-source/blob/main/iplay-screenshots/4.png?raw=true",
-        "https://github.com/simonrejzek/SideStore-source/blob/main/iplay-screenshots/5.png?raw=true",
-        "https://github.com/simonrejzek/SideStore-source/blob/main/iplay-screenshots/6.png?raw=true"
-      ],
-      "versions": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      }
     }
   ],
   "news": [
     {
       "title": "YouTube Released!",
-      "identifier": "youtube-update-20.05.4",
+      "identifier": "youtube-update-19.49.7",
       "caption": "The ultimate YouTube tweak is now available on AltStore and SideStore! Tap to download.",
       "date": "2025-02-11T06:35:00+00:00",
       "tintColor": "#0f0f0f",
