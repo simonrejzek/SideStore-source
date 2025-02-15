@@ -111,7 +111,7 @@
       "versionDescription": "- Black Screen Fix.\n- Added App Group Isolation for multiple apps.\n- Auto open URLs in current app without prompt.\n- Improved app signature checks.\n- Added JIT-Less Mode Diagnose Page.\n- New LiveContainer Help section.",
       "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v3.2.0lc/LiveContainer.ipa",
       "localizedDescription": "LiveContainer allows you to manage and run sideloaded apps with enhanced features like app group isolation, better signature checks, and JIT-less mode diagnostics.",
-      "iconURL": "https://github.com/simonrejzek/SideStore-source/blob/main/LiveContainer/livecontainer.png?raw=true",
+      "iconURL": "https://github.com/simonrejzek/SideStore-source/blob/main/LiveContainer/livecontainer%20(1).png?raw=true",
       "tintColor": "#3B82F6",
       "screenshotURLs": [
         "https://github.com/simonrejzek/SideStore-source/blob/main/LiveContainer/1.png?raw=true",
