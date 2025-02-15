@@ -127,7 +127,50 @@
           "localizedDescription": "- Black Screen Fix.\n- Added App Group Isolation for multiple apps.\n- Auto open URLs in current app without prompt.\n- Improved app signature checks.\n- Added JIT-Less Mode Diagnose Page.\n- New LiveContainer Help section.",
           "minOSVersion": "12.0"
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups",
+          "get-task-allow",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Required for integrating with Apple Music.",
+          "NSBluetoothAlwaysUsageDescription": "Needed for always-on Bluetooth connections.",
+          "NSBluetoothPeripheralUsageDescription": "Needed for connecting to Bluetooth peripherals.",
+          "NSCameraUsageDescription": "Required for live streaming and video recording.",
+          "NSContactsUsageDescription": "Allows access to contacts for sharing and syncing data.",
+          "NSFaceIDUsageDescription": "Allows Face ID authentication for secure access.",
+          "NSFallDetectionUsageDescription": "Required for detecting falls in supported apps.",
+          "NSGKFriendListUsageDescription": "Needed for accessing Game Center friends list.",
+          "NSHealthUpdateUsageDescription": "Allows the app to update health data.",
+          "NSHealthClinicalHealthRecordsShareUsageDescription": "Allows access to clinical health records.",
+          "NSHealthShareUsageDescription": "Allows the app to read and analyze health data.",
+          "NSHomeKitUsageDescription": "Needed for controlling smart home devices via HomeKit.",
+          "NSIdentityUsageDescription": "Allows scanning and storing ID cards.",
+          "NSLocalNetworkUsageDescription": "Required to detect and connect to local network devices.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Allows the app to always access location services.",
+          "NSLocationUsageDescription": "Required for location-based services in the app.",
+          "NSLocationWhenInUseUsageDescription": "Allows access to location data while using the app.",
+          "NSMicrophoneUsageDescription": "Required for voice recording and live streaming.",
+          "NSMotionUsageDescription": "Needed for detecting motion-based interactions.",
+          "NSNearbyInteractionUsageDescription": "Required for detecting nearby devices.",
+          "NSNearbyInteractionAllowOnceUsageDescription": "Allows one-time access to Nearby Interaction.",
+          "NFCReaderUsageDescription": "Required for reading NFC tags.",
+          "NSCalendarsFullAccessUsageDescription": "Allows full access to calendars.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "Allows writing events to calendars.",
+          "NSLocationTemporaryUsageDescriptionDictionary": "Temporary location access for specific use cases.",
+          "NSRemindersFullAccessUsageDescription": "Allows full access to reminders.",
+          "NSPhotoLibraryAddUsageDescription": "Allows adding photos and videos to the library.",
+          "NSPhotoLibraryUsageDescription": "Allows access to photos and videos.",
+          "NSSensorKitUsageDescription": "Required for collecting sensor data.",
+          "NSSiriUsageDescription": "Allows Siri integration for voice commands.",
+          "NSSpeechRecognitionUsageDescription": "Required for speech-to-text functionality.",
+          "NSUserTrackingUsageDescription": "Allows tracking user interactions for ads and analytics."
+        }
+      }
     }
   ],
 "news": [
