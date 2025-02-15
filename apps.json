@@ -124,7 +124,7 @@
           "date": "2025-01-15T00:00:00+00:00",
           "size": 2830000,
           "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v3.2.0lc/LiveContainer.ipa",
-          "localizedDescription": "- Black Screen Fix is now optional.\n- Added App Group Isolation for multiple accounts.\n- Auto open URLs in current app without prompt.\n- Improved app signature checks.\n- Added JIT-Less Mode Diagnose Page.\n- New LiveContainer Help section.",
+          "localizedDescription": "- Black Screen Fix.\n- Added App Group Isolation for multiple apps.\n- Auto open URLs in current app without prompt.\n- Improved app signature checks.\n- Added JIT-Less Mode Diagnose Page.\n- New LiveContainer Help section.",
           "minOSVersion": "12.0"
         }
       ]
