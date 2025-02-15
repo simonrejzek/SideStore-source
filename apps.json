@@ -41,7 +41,34 @@
           "localizedDescription": "- YouTube v19.21.2.\n- Fixed instant crash on video due to iSponsorBlock.\n- Fixed weird OLED theme in Shorts.\n- Added options to hide the Remix / Clip / Download button under the video player.\n- Updated app base version to 19.21.2.",
           "minOSVersion": "15.0"
         }
-      ]
+      ],
+            "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "get-task-allow",
+          "com.apple.developer.device-information.user-assigned-device-name",
+          "com.apple.developer.group-session",
+          "keychain-access-groups",
+          "com.apple.developer.networking.multicast",
+          "aps-environment",
+          "com.apple.developer.siri",
+          "com.apple.developer.networking.wifi-info"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "Required for live streaming and video recording.",
+          "NSMicrophoneUsageDescription": "Required for recording videos and live streaming.",
+          "NSAppleMusicUsageDescription": "Required for integrating with Apple Music.",
+          "NSBluetoothPeripheralUsageDescription": "Needed for connecting to Bluetooth devices.",
+          "NSContactsUsageDescription": "Allows access to contacts for sharing and syncing data.",
+          "NSLocalNetworkUsageDescription": "Required to detect and connect to local network devices.",
+          "NSLocationWhenInUseUsageDescription": "Needed for location-based services in the app.",
+          "NSPhotoLibraryUsageDescription": "Allows saving and accessing photos and videos.",
+          "NSUserTrackingUsageDescription": "Required for tracking user interactions with ads and analytics."
+        }
+      }
     },
     {
       "name": "iPlay",
