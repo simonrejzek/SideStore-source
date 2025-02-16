@@ -73,7 +73,7 @@
     },
     {
       "name": "YouTube Music",
-      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Dayanch96",
       "subtitle": "The ultimate YouTube Music mod with enhanced features.",
       "version": "8.06.2",
