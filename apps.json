@@ -98,28 +98,7 @@
           "localizedDescription": "- Bug fixes and performance improvements.\n- Enhanced media playback features.",
           "minOSVersion": "11.0"
         }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.security.application-groups",
-          "com.apple.developer.ubiquity-container-identifiers",
-          "com.apple.developer.icloud-container-development-container-identifiers",
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.icloud-container-identifiers",
-          "com.apple.developer.ubiquity-kvstore-identifier",
-          "com.apple.developer.icloud-services",
-          "keychain-access-groups",
-          "com.apple.developer.networking.vpn.api",
-          "aps-environment",
-          "com.apple.developer.siri"
-        ],
-        "privacy": {
-          "NSLocationWhenInUseUsageDescription": "Allows access to location data while using the app.",
-          "NSPhotoLibraryAddUsageDescription": "Allows adding photos and videos to the library.",
-          "NSPhotoLibraryUsageDescription": "Allows access to photos and videos.",
-          "NSUserTrackingUsageDescription": "Allows tracking user interactions for ads and analytics."
-        }
-      }
+      ]
     },
     {
       "name": "LiveContainer",
