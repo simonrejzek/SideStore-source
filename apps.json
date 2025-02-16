@@ -95,7 +95,7 @@
           "version": "8.06.2",
           "date": "2025-02-13T06:35:00+00:00",
           "size": 71920000,
-          "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/19.49.7/YT.ipa",
+          "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v8.06.2ytm/YTM.ipa",
           "localizedDescription": "- Fixed Downloads tab not working.\n- Fixed network permissions.\n- Updated YouTube Music version to 8.06.2.",
           "minOSVersion": "15.0"
         }
