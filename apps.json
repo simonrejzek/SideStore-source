@@ -73,14 +73,14 @@
     },
     {
       "name": "YouTube Music",
-      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Dayanch96",
       "subtitle": "The ultimate YouTube Music mod with enhanced features.",
       "version": "8.06.2",
       "versionDate": "2025-02-13T06:35:00+00:00",
       "versionDescription": "- Fixed Downloads tab not working.\n- Fixed network permissions.\n- Updated YouTube Music version to 8.06.2.",
       "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/19.49.7/YT.ipa",
-      "localizedDescription": "YouTube Music (YTMusicUltimate) is a modified version of the official app that includes Ad-blocking, Background playback, Download songs, Improved speed controls and more. Enjoy YouTube with a better experience!",
+      "localizedDescription": "YouTube Music (YTMusicUltimate) is a modified version of the official app that includes Ad-blocking, Background playback, Download songs, Improved speed controls and more. Enjoy YouTube Music with a better experience!",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/41/02/50410287-e61c-d707-07fc-fe9ead80fafe/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220.png/230x0w.webp",
       "tintColor": "#ff0931",
       "screenshotURLs": [
