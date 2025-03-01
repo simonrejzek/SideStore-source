@@ -164,10 +164,10 @@
       "bundleIdentifier": "com.kdt.livecontainer",
       "developerName": "khanhduytran",
       "subtitle": "A container for running sideloaded apps.",
-      "version": "3.2.0",
+      "version": "3.3.0",
       "versionDate": "2025-01-15T00:00:00+00:00",
-      "versionDescription": "- Black Screen Fix.\n- Added App Group Isolation for multiple apps.\n- Auto open URLs in current app without prompt.\n- Improved app signature checks.\n- Added JIT-Less Mode Diagnose Page.\n- New LiveContainer Help section.",
-      "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v3.2.0lc/LiveContainer.ipa",
+      "versionDescription": "- Install from URL / Share Sheet.\n- Share File to Guest Apps.\n- JITStreamer-EB Support.\n- Entitlement File Section in JITLess Diagnose.\n- Personal Certificate Support (Untested).\n- Up to 128 Containers Per App.\n- Hide LiveContainer.\n- Archive Option when Installing 2nd LiveContainer.\n- Bug Fixes.",
+      "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v3.3.0lcnightly/livecontainer.ipa",
       "localizedDescription": "LiveContainer allows you to manage and run sideloaded apps with enhanced features like app group isolation, better signature checks, and JIT-less mode diagnostics.",
       "iconURL": "https://github.com/simonrejzek/SideStore-source/blob/main/LiveContainer/livecontainer%20(1).png?raw=true",
       "tintColor": "#3B82F6",
@@ -178,11 +178,11 @@
       ],
       "versions": [
         {
-          "version": "3.2.0",
+          "version": "3.3.0",
           "date": "2025-01-15T00:00:00+00:00",
           "size": 2830000,
-          "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v3.2.0lc/LiveContainer.ipa",
-          "localizedDescription": "- Black Screen Fix.\n- Added App Group Isolation for multiple apps.\n- Auto open URLs in current app without prompt.\n- Improved app signature checks.\n- Added JIT-Less Mode Diagnose Page.\n- New LiveContainer Help section.",
+          "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v3.3.0lcnightly/livecontainer.ipa",
+          "localizedDescription": "- Install from URL / Share Sheet.\n- Share File to Guest Apps.\n- JITStreamer-EB Support.\n- Entitlement File Section in JITLess Diagnose.\n- Personal Certificate Support (Untested).\n- Up to 128 Containers Per App.\n- Hide LiveContainer.\n- Archive Option when Installing 2nd LiveContainer.\n- Bug Fixes.",
           "minOSVersion": "12.0"
         }
       ],
