@@ -166,7 +166,7 @@
       "subtitle": "A container for running sideloaded apps.",
       "version": "3.3.0",
       "versionDate": "2025-01-15T00:00:00+00:00",
-      "versionDescription": "- Added feature to install from a URL or a Share Sheet.\n- New Share File to Guest Apps.\n- Added JITStreamer-EB Support to be able to run even more apps.\n- Added Entitlement File Section in JITLess Diagnose.\n- Added Personal Certificate Support (Untested).\n- Now you can have up to 128 Containers Per App.\n- You are now able to Hide LiveContainer.\n- New Archive Option when Installing 2nd LiveContainer.\n- Fixed Bug.",
+      "versionDescription": "- Added feature to install from a URL or a Share Sheet.\n- New Share File to Guest Apps.\n- Added JITStreamer-EB Support to be able to run even more apps.\n- Added Entitlement File Section in JITLess Diagnose.\n- Added Personal Certificate Support (Untested).\n- Now you can have up to 128 Containers Per App.\n- You are now able to Hide LiveContainer.\n- New Archive Option when Installing 2nd LiveContainer.\n- Fixed Bugs.",
       "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v3.3.0lcnightly/livecontainer.ipa",
       "localizedDescription": "LiveContainer allows you to manage and run sideloaded apps with enhanced features like app group isolation, better signature checks, and JIT-less mode diagnostics.",
       "iconURL": "https://github.com/simonrejzek/SideStore-source/blob/main/LiveContainer/livecontainer%20(1).png?raw=true",
@@ -182,7 +182,7 @@
           "date": "2025-01-15T00:00:00+00:00",
           "size": 2830000,
           "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v3.3.0lcnightly/livecontainer.ipa",
-          "localizedDescription": "- Install from URL / Share Sheet.\n- Share File to Guest Apps.\n- JITStreamer-EB Support.\n- Entitlement File Section in JITLess Diagnose.\n- Personal Certificate Support (Untested).\n- Up to 128 Containers Per App.\n- Hide LiveContainer.\n- Archive Option when Installing 2nd LiveContainer.\n- Bug Fixes.",
+          "localizedDescription": "- Added feature to install from a URL or a Share Sheet.\n- New Share File to Guest Apps.\n- Added JITStreamer-EB Support to be able to run even more apps.\n- Added Entitlement File Section in JITLess Diagnose.\n- Added Personal Certificate Support (Untested).\n- Now you can have up to 128 Containers Per App.\n- You are now able to Hide LiveContainer.\n- New Archive Option when Installing 2nd LiveContainer.\n- Fixed Bugs.",
           "minOSVersion": "12.0"
         }
       ],
