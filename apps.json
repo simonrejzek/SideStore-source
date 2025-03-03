@@ -192,7 +192,10 @@
           "get-task-allow",
           "com.apple.developer.kernel.extended-virtual-addressing",
           "com.apple.developer.kernel.increased-memory-limit",
-          "keychain-access-groups"
+          "keychain-access-groups",
+          "com.apple.developer.healthkit.background-delivery",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access"
         ],
         "privacy": {
           "NSAppleMusicUsageDescription": "Required for integrating with Apple Music.",
