@@ -102,10 +102,26 @@
       ],
       "appPermissions": {
         "entitlements": [
-
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.carplay-audio",
+          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+          "com.apple.developer.mediasetup",
+          "keychain-access-groups",
+          "com.apple.developer.networking.multicast",
+          "aps-environment",
+          "com.apple.developer.siri",
+          "com.apple.developer.networking.wifi-info"
         ],
         "privacy": {
-
+          "NSCameraUsageDescription": "Required for live streaming and video recording.",
+          "NSBluetoothPeripheralUsageDescription": "Needed for connecting to Bluetooth devices.",
+          "NSContactsUsageDescription": "Allows access to contacts for sharing and syncing data.",
+          "NSLocalNetworkUsageDescription": "Required to detect and connect to local network devices.",
+          "NSMicrophoneUsageDescription": "Required for recording videos and live streaming.",
+          "NSPhotoLibraryUsageDescription": "Allows saving and accessing photos and videos.",
+          "NSPhotoLibraryAddUsageDescription": "Allows adding photos and videos to the library.",
+          "NSBluetoothAlwaysUsageDescription": "Needed for always-on Bluetooth connections."
         }
       }
     },
