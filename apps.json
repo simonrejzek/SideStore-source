@@ -9,8 +9,8 @@
   "tintColor": "#009cc7",
   "featuredApps": [
     "com.google.ios.youtube",
-    "com.iplay.apt",
-    "com.kdt.livecontainer"
+    "com.google.ios.youtubemusic",
+    "com.iplay.apt"
   ],
   "apps": [
     {
@@ -154,6 +154,54 @@
           "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v1.0.2ip/iPlay.ipa",
           "localizedDescription": "- Bug fixes and performance improvements.\n- Enhanced media playback features.",
           "minOSVersion": "11.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "com.apple.developer.icloud-container-development-container-identifiers",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.icloud-services",
+          "keychain-access-groups",
+          "com.apple.developer.networking.vpn.api",
+          "aps-environment",
+          "com.apple.developer.siri"
+        ],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "Allows access to location data while using the app.",
+          "NSPhotoLibraryAddUsageDescription": "Allows adding photos and videos to the library.",
+          "NSPhotoLibraryUsageDescription": "Allows access to photos and videos.",
+          "NSUserTrackingUsageDescription": "Allows tracking user interactions for ads and analytics."
+        }
+      }
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "BandarHelal",
+      "subtitle": "Tweaked Instagram with extra features!",
+      "version": "361.0.0",
+      "versionDate": "2025-05-25T09:06:00+00:00",
+      "versionDescription": "- Fixed duplicate download button issue.\n- Improved photo downloads.\n- Ensured the correct feed display.",
+      "downloadURL": "https://github.com/simonrejzek/SideStore-source/raw/refs/heads/main/iPlay/iPlay-1.0.2.ipa",
+      "localizedDescription": "BHInstagram is a tweaked version of Instagram with features like media downloads, ad-blocking, enhanced privacy, and more customization.",
+      "category": "social",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/3c/ef/c33cefa8-bfb9-9545-f304-db3b7ccf5f17/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x0w.webp",
+      "tintColor": "#DE4E8F",
+      "screenshotURLs": [
+
+      ],
+      "versions": [
+        {
+          "version": "361.0.0",
+          "date": "2025-05-25T09:06:00+00:00",
+          "size": 183000000,
+          "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v1.0.2ip/iPlay.ipa",
+          "localizedDescription": "- Fixed duplicate download button issue.\n- Improved photo downloads.\n- Ensured the correct feed display.",
+          "minOSVersion": "15.1"
         }
       ],
       "appPermissions": {
