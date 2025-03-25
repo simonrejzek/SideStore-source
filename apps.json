@@ -184,9 +184,9 @@
       "developerName": "BandarHelal",
       "subtitle": "Tweaked Instagram with extra features!",
       "version": "361.0.0",
-      "versionDate": "2025-05-25T09:06:00+00:00",
+      "versionDate": "2025-03-25T09:06:00+00:00",
       "versionDescription": "- Fixed duplicate download button issue.\n- Improved photo downloads.\n- Ensured the correct feed display.",
-      "downloadURL": "https://github.com/simonrejzek/SideStore-source/raw/refs/heads/main/iPlay/iPlay-1.0.2.ipa",
+      "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/bhinsta/BHInstagram-sideloaded.ipa",
       "localizedDescription": "BHInstagram is a tweaked version of Instagram with features like media downloads, ad-blocking, enhanced privacy, and more customization.",
       "category": "social",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/3c/ef/c33cefa8-bfb9-9545-f304-db3b7ccf5f17/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x0w.webp",
@@ -197,9 +197,9 @@
       "versions": [
         {
           "version": "361.0.0",
-          "date": "2025-05-25T09:06:00+00:00",
+          "date": "2025-03-25T09:06:00+00:00",
           "size": 183000000,
-          "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v1.0.2ip/iPlay.ipa",
+          "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/bhinsta/BHInstagram-sideloaded.ipa",
           "localizedDescription": "- Fixed duplicate download button issue.\n- Improved photo downloads.\n- Ensured the correct feed display.",
           "minOSVersion": "15.1"
         }
