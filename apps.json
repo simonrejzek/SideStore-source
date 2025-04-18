@@ -183,7 +183,7 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "ORCA AI Labs",
       "subtitle": "The world's first fully uncensored smart AI chat app.",
-      "version": "1.0",
+      "version": "1.0.0b",
       "versionDate": "2025-07-25T09:06:00+00:00",
       "versionDescription": "Release",
       "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/bhinsta/BHInstagram-sideloaded.ipa",
@@ -191,7 +191,7 @@
       "beta": true,
       "category": "lifestyle",
       "iconURL": "https://raw.githubusercontent.com/simonrejzek/SideStore-source/refs/heads/main/IMG_0457.png",
-      "tintColor": "#DE4E8F",
+      "tintColor": "#EFEFEF",
       "screenshotURLs": [
 
       ],
