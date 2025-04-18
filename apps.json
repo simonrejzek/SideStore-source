@@ -185,7 +185,7 @@
       "subtitle": "The world's first fully uncensored smart AI chat app.",
       "version": "1.0.0b",
       "versionDate": "2025-07-25T09:06:00+00:00",
-      "versionDescription": "- First public **beta** release! Test out ORCA and see what it can do.\n- Bugs may occur — please report any issues or suggestions.\n- Help shape the future of ORCA with your feedback.\n- Clean, simple, and fast interface built for a smooth experience.\n- Regular updates planned based on your ideas and reports.\n- Thanks for being part of the very first beta version!",
+      "versionDescription": "- First public beta release! Test out ORCA and see what it can do.\n- Bugs may occur — please report any issues or suggestions.\n- Help shape the future of ORCA with your feedback.\n- Clean, simple, and fast interface built for a smooth experience.\n- Regular updates planned based on your ideas and reports.\n- Thanks for being part of the very first beta version!",
       "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/bhinsta/BHInstagram-sideloaded.ipa",
       "localizedDescription": "ORCA is an AI chat app designed for open, uncensored conversations. It delivers fast, intelligent responses and gives users the freedom to explore any topic without limitations.",
       "beta": true,
@@ -201,7 +201,7 @@
           "date": "2025-07-25T09:06:00+00:00",
           "size": 3000000,
           "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/bhinsta/BHInstagram-sideloaded.ipa",
-          "localizedDescription": "- First public **beta** release! Test out ORCA and see what it can do.\n- Bugs may occur — please report any issues or suggestions.\n- Help shape the future of ORCA with your feedback.\n- Clean, simple, and fast interface built for a smooth experience.\n- Regular updates planned based on your ideas and reports.\n- Thanks for being part of the very first beta version!- First public **beta** release! Test out ORCA and see what it can do.\n- Bugs may occur — please report any issues or suggestions.\n- Help shape the future of ORCA with your feedback.\n- Clean, simple, and fast interface built for a smooth experience.\n- Regular updates planned based on your ideas and reports.\n- Thanks for being part of the very first beta version!",
+          "localizedDescription": "- First public beta release! Test out ORCA and see what it can do.\n- Bugs may occur — please report any issues or suggestions.\n- Help shape the future of ORCA with your feedback.\n- Clean, simple, and fast interface built for a smooth experience.\n- Regular updates planned based on your ideas and reports.\n- Thanks for being part of the very first beta version!",
           "minOSVersion": "15.1"
         }
       ],
