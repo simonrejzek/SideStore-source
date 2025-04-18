@@ -199,6 +199,7 @@
           "version": "1.0",
           "date": "2025-07-25T09:06:00+00:00",
           "size": 3000000,
+          "beta": true,
           "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/bhinsta/BHInstagram-sideloaded.ipa",
           "localizedDescription": "Release",
           "minOSVersion": "15.1"
