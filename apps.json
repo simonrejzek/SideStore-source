@@ -222,7 +222,7 @@
       "version": "3.4.0",
       "versionDate": "2025-04-25T00:00:00+00:00",
       "versionDescription": "- Added support for StikJIT.\n- Added Game Mode.\n- Changed Re-Sign strategy.\n- Added support for more languages.\n- Fixed bugs.",
-      "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v3.3.0lcnightly/livecontainer.ipa",
+      "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v3.2.0lc/LiveContainer.ipa",
       "localizedDescription": "LiveContainer allows you to manage and run sideloaded apps with enhanced features like app group isolation, better signature checks, and JIT-less mode diagnostics.",
       "category": "utilities",
       "iconURL": "https://github.com/simonrejzek/SideStore-source/blob/main/LiveContainer/livecontainer%20(1).png?raw=true",
@@ -237,7 +237,7 @@
           "version": "3.4.0",
           "date": "2025-04-25T00:00:00+00:00",
           "size": 2600000,
-          "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v3.3.0lcnightly/livecontainer.ipa",
+          "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v3.2.0lc/LiveContainer.ipa",
           "localizedDescription": "- Added support for StikJIT.\n- Added Game Mode.\n- Changed Re-Sign strategy.\n- Added support for more languages.\n- Fixed bugs.",
           "minOSVersion": "12.0"
         }
