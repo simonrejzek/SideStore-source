@@ -219,9 +219,9 @@
       "bundleIdentifier": "com.kdt.livecontainer",
       "developerName": "khanhduytran",
       "subtitle": "A container for running sideloaded apps.",
-      "version": "3.3.1",
-      "versionDate": "2025-03-18T00:00:00+00:00",
-      "versionDescription": "- Added feature to install from a URL or a Share Sheet.\n- New Share File to Guest Apps.\n- Added JITStreamer-EB Support to be able to run even more apps.\n- Added Entitlement File Section in JITLess Diagnose.\n- Added Personal Certificate Support (Untested).\n- Now you can have up to 128 Containers Per App.\n- You are now able to Hide LiveContainer.\n- New Archive Option when Installing 2nd LiveContainer.\n- Fixed Bugs.",
+      "version": "3.4.0",
+      "versionDate": "2025-04-25T00:00:00+00:00",
+      "versionDescription": "- Added support for StikJIT.\n- Added Game Mode.\n- Changed Re-Sign strategy.\n- Added support for more languages.\n- Fixed bugs.",
       "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v3.3.0lcnightly/livecontainer.ipa",
       "localizedDescription": "LiveContainer allows you to manage and run sideloaded apps with enhanced features like app group isolation, better signature checks, and JIT-less mode diagnostics.",
       "category": "utilities",
@@ -234,11 +234,11 @@
       ],
       "versions": [
         {
-          "version": "3.3.1",
-          "date": "2025-03-18T00:00:00+00:00",
-          "size": 2830000,
+          "version": "3.4.0",
+          "date": "2025-04-25T00:00:00+00:00",
+          "size": 2600000,
           "downloadURL": "https://github.com/simonrejzek/SideStore-source/releases/download/v3.3.0lcnightly/livecontainer.ipa",
-          "localizedDescription": "- Added feature to install from a URL or a Share Sheet.\n- New Share File to Guest Apps.\n- Added JITStreamer-EB Support to be able to run even more apps.\n- Added Entitlement File Section in JITLess Diagnose.\n- Added Personal Certificate Support (Untested).\n- Now you can have up to 128 Containers Per App.\n- You are now able to Hide LiveContainer.\n- New Archive Option when Installing 2nd LiveContainer.\n- Fixed Bugs.",
+          "localizedDescription": "- Added support for StikJIT.\n- Added Game Mode.\n- Changed Re-Sign strategy.\n- Added support for more languages.\n- Fixed bugs.",
           "minOSVersion": "12.0"
         }
       ],
