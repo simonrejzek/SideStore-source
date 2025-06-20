@@ -16,7 +16,6 @@
     {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
-      "marketplaceID": "",
       "developerName": "arichornlover",
       "subtitle": "The ultimate YouTube mod with enhanced features.",
       "localizedDescription": "YouTube (uYou Enhanced) is a modified version of the official app that includes Ad-blocking, Background playback, PiP mode, Download videos, Improved speed controls and more. Enjoy YouTube with a better experience!",
@@ -77,13 +76,11 @@
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
           "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
         }
-      },
-      "patreon": {}
+      }
     },
     {
       "name": "YouTube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
-      "marketplaceID": "",
       "developerName": "Dayanch96",
       "subtitle": "The ultimate YouTube Music mod with enhanced features.",
       "localizedDescription": "YouTube Music (YTMusicUltimate) is a modified version of the official app that includes Ad-blocking, Background playback, Download songs, Improved speed controls and more. Enjoy YouTube Music with a better experience!",
@@ -131,13 +128,11 @@
           "NSPhotoLibraryAddUsageDescription": "Allows adding photos and videos to the library.",
           "NSBluetoothAlwaysUsageDescription": "Needed for always-on Bluetooth connections."
         }
-      },
-      "patreon": {}
+      }
     },
     {
       "name": "iPlay",
       "bundleIdentifier": "com.iplay.apt",
-      "marketplaceID": "",
       "developerName": "Optzeci",
       "subtitle": "A free streaming app with no account needed.",
       "localizedDescription": "iPlay is a free streaming service without ads or account requirements. Watch movies and TV shows instantly with a smooth and clean interface.",
@@ -181,13 +176,11 @@
           "NSPhotoLibraryUsageDescription": "Allows access to photos and videos.",
           "NSUserTrackingUsageDescription": "Allows tracking user interactions for ads and analytics."
         }
-      },
-      "patreon": {}
+      }
     },
     {
       "name": "LiveContainer",
       "bundleIdentifier": "com.kdt.livecontainer",
-      "marketplaceID": "",
       "developerName": "khanhduytran",
       "subtitle": "A container for running sideloaded apps.",
       "localizedDescription": "LiveContainer allows you to manage and run sideloaded apps with enhanced features like app group isolation, better signature checks, and JIT-less mode diagnostics.",
@@ -264,8 +257,7 @@
           "NSSpeechRecognitionUsageDescription": "The guest app is requesting for this permission.",
           "NSUserTrackingUsageDescription": "The guest app is requesting for this permission."
         }
-      },
-      "patreon": {}
+      }
     }
   ],
   "news": [
